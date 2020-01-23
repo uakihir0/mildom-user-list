@@ -1,0 +1,25 @@
+# ==============================
+# Spring
+# ==============================
+spring:
+  application:
+    name: mildom-ranking
+  profiles:
+    active: local
+  datasource:
+    url: jdbc:sqlite:mildom-ranking.db
+  jpa:
+    show-sql: false
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: com.enigmabridge.hibernate.dialect.SQLiteDialect
+        jdbc:
+          batch_size: 1
+  main:
+    banner-mode: "off"
+
+logging:
+  level:
+    root: WARN
