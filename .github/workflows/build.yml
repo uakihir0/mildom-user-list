@@ -2,8 +2,9 @@ name: GetUserData
 
 on:
   push:
-    branches:
-      - master
+    paths-ignore:
+      - 'page/data.js'
+      - 'page/data.json'
   schedule:
     - cron:  '0 0 */1 * *'
 
@@ -24,8 +25,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --global user.email "a.urusihara@gmail.com"
-          git config --global user.name "Akihiro Urushihara"
+          git config --local user.email "bot.a.urusihara@gmail.com"
+          git config --local user.name "(BOT) Akihiro Urushihara"
           git add --all
           git commit -m "Refreshed by GitHub Actions CI (SHA ${GITHUB_SHA})"
 
