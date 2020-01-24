@@ -17,7 +17,7 @@
 
 <BODY>
     <h3>Mildom User List</h3>
-    <p>フォロワーが50人以上のユーザー一覧 (一時間毎に更新)</p>
+    <p>フォロワーが50人以上のユーザー一覧 (一日毎に更新)</p>
     <div id="users">
     <input class="search form-control" placeholder="検索" />
     <table class="table">
@@ -26,6 +26,7 @@
             <th class="sort" data-sort="id">ID</th>
             <th class="sort" data-sort="name">名前</th>
             <th class="sort" data-sort="fans">フォロワー数</th>
+            <th class="sort" data-sort="level">レベル</th>
             <th class="sort" data-sort="official">公式</th>
         </tr>
         </thead>
@@ -34,6 +35,7 @@
             <td class="id"></td>
             <td class="name"></td>
             <td class="fans"></td>
+            <td class="level"></td>
             <td class="official"></td>
         </tr>
         </tbody>
@@ -41,7 +43,7 @@
     </div>
     <script>
         var options = {
-            valueNames: ['id', 'name', 'fans', 'official']
+            valueNames: ['id', 'name', 'fans', 'level', 'official']
         };
         var userList = new List('users', options, mildom_users.users);
     </script>

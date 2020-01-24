@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron:  '0 */4 * * *'
+    - cron:  '0 0 */1 * *'
 
 jobs:
   build:
@@ -31,6 +31,5 @@ jobs:
           git config --global user.name "Akihiro Urushihara"
           git add --all
           git commit -m "Refreshed by GitHub Actions CI (SHA ${GITHUB_SHA})"
-          git remote rm origin
-          git remote add origin https://${GH_TOKEN}@github.com/uakihir0/mildom-user-list
-          git push -f origin master
+          git remote set-url origin https://${GH_TOKEN}@github.com/uakihir0/mildom-user-list
+          git push origin HEAD
