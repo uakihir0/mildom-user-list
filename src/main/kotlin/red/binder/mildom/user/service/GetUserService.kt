@@ -88,11 +88,6 @@ class GetUserService(
         while (!findEnds) {
             val latch = CountDownLatch(batch)
 
-            // 適度にやめる
-            if (10010000 < index.get()) {
-                break
-            }
-
             repeat(batch) {
                 threadPool.submit {
 
