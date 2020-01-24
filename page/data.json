@@ -4,21 +4,21 @@
     "name" : "KUN",
     "official" : true,
     "status" : 10,
-    "fans" : 33302,
+    "fans" : 33305,
     "level" : 73
   }, {
     "id" : 100000,
     "name" : "Mildom公式",
     "official" : true,
     "status" : 10,
-    "fans" : 32738,
+    "fans" : 32785,
     "level" : 130
   }, {
     "id" : 10103845,
     "name" : "リズアート/CR RizArt",
     "official" : true,
     "status" : 10,
-    "fans" : 17221,
+    "fans" : 17223,
     "level" : 34
   }, {
     "id" : 10115464,
@@ -46,21 +46,21 @@
     "name" : "CR.Francisco",
     "official" : true,
     "status" : 10,
-    "fans" : 14930,
+    "fans" : 14931,
     "level" : 50
   }, {
     "id" : 10103887,
     "name" : "うゅりる🐲",
     "official" : true,
     "status" : 10,
-    "fans" : 14820,
+    "fans" : 14819,
     "level" : 39
   }, {
     "id" : 10115448,
     "name" : "Crazy Raccoon",
     "official" : true,
     "status" : 10,
-    "fans" : 14642,
+    "fans" : 14643,
     "level" : 15
   }, {
     "id" : 10103800,
@@ -74,28 +74,28 @@
     "name" : "CR.VanilLa/バニラ",
     "official" : true,
     "status" : 10,
-    "fans" : 12869,
+    "fans" : 12878,
     "level" : 48
   }, {
     "id" : 10104109,
     "name" : "CR.Toppy",
     "official" : true,
     "status" : 10,
-    "fans" : 12570,
+    "fans" : 12571,
     "level" : 39
   }, {
     "id" : 10103431,
     "name" : "CR/Ruri",
     "official" : true,
     "status" : 10,
-    "fans" : 11965,
+    "fans" : 11966,
     "level" : 30
   }, {
     "id" : 10031099,
     "name" : "ねこくん！",
     "official" : true,
     "status" : 10,
-    "fans" : 11769,
+    "fans" : 11770,
     "level" : 40
   }, {
     "id" : 10001309,
@@ -109,14 +109,14 @@
     "name" : "CR.コーン",
     "official" : true,
     "status" : 10,
-    "fans" : 10513,
+    "fans" : 10514,
     "level" : 45
   }, {
     "id" : 10104095,
     "name" : "CR.bell",
     "official" : true,
     "status" : 10,
-    "fans" : 9276,
+    "fans" : 9277,
     "level" : 35
   }, {
     "id" : 10103391,
@@ -130,28 +130,28 @@
     "name" : "Bosna ボスナ",
     "official" : true,
     "status" : 10,
-    "fans" : 9055,
+    "fans" : 9060,
     "level" : 65
   }, {
     "id" : 10084097,
     "name" : "TIE Ru",
     "official" : true,
     "status" : 10,
-    "fans" : 8763,
+    "fans" : 8765,
     "level" : 54
   }, {
     "id" : 10053155,
     "name" : "２８（ふたば）",
     "official" : true,
     "status" : 10,
-    "fans" : 8434,
+    "fans" : 8435,
     "level" : 48
   }, {
     "id" : 10103667,
     "name" : "CR.Qjac",
     "official" : true,
     "status" : 10,
-    "fans" : 8336,
+    "fans" : 8337,
     "level" : 20
   }, {
     "id" : 10001313,
@@ -165,21 +165,21 @@
     "name" : "CR Scarlet",
     "official" : true,
     "status" : 10,
-    "fans" : 7552,
+    "fans" : 7553,
     "level" : 13
   }, {
     "id" : 10054818,
     "name" : "実況者まがれつ🎃",
     "official" : true,
     "status" : 10,
-    "fans" : 7372,
+    "fans" : 7373,
     "level" : 51
   }, {
     "id" : 10103833,
     "name" : "CR.ゆせあ",
     "official" : true,
     "status" : 10,
-    "fans" : 7225,
+    "fans" : 7226,
     "level" : 17
   }, {
     "id" : 10121773,
@@ -193,7 +193,7 @@
     "name" : "れいしー",
     "official" : true,
     "status" : 10,
-    "fans" : 7095,
+    "fans" : 7096,
     "level" : 53
   }, {
     "id" : 10001084,
@@ -221,7 +221,7 @@
     "name" : "軍師ミノル",
     "official" : true,
     "status" : 10,
-    "fans" : 4409,
+    "fans" : 4421,
     "level" : 30
   }, {
     "id" : 10052983,
@@ -235,14 +235,14 @@
     "name" : "GzK ぎぞく",
     "official" : true,
     "status" : 10,
-    "fans" : 4164,
+    "fans" : 4166,
     "level" : 57
   }, {
     "id" : 10060712,
     "name" : "まろ🐈",
     "official" : true,
     "status" : 10,
-    "fans" : 3930,
+    "fans" : 3931,
     "level" : 45
   }, {
     "id" : 10137924,
@@ -298,21 +298,21 @@
     "name" : "ななとGames",
     "official" : true,
     "status" : 10,
-    "fans" : 2501,
+    "fans" : 2503,
     "level" : 58
   }, {
     "id" : 10037397,
     "name" : "くろねこ氏",
     "official" : true,
     "status" : 10,
-    "fans" : 2341,
+    "fans" : 2342,
     "level" : 87
   }, {
     "id" : 10205705,
     "name" : "オタク",
     "official" : true,
     "status" : 10,
-    "fans" : 2175,
+    "fans" : 2176,
     "level" : 44
   }, {
     "id" : 10000248,
@@ -333,7 +333,7 @@
     "name" : "Ken25252525",
     "official" : false,
     "status" : 10,
-    "fans" : 1967,
+    "fans" : 1966,
     "level" : 87
   }, {
     "id" : 10076884,
@@ -354,15 +354,22 @@
     "name" : "クザン",
     "official" : true,
     "status" : 10,
-    "fans" : 1734,
+    "fans" : 1733,
     "level" : 44
   }, {
     "id" : 10001637,
     "name" : "Shiras",
     "official" : true,
     "status" : 10,
-    "fans" : 1638,
+    "fans" : 1639,
     "level" : 67
+  }, {
+    "id" : 10013160,
+    "name" : "Bitter",
+    "official" : true,
+    "status" : 10,
+    "fans" : 1560,
+    "level" : 81
   }, {
     "id" : 10080610,
     "name" : "かべお",
@@ -382,7 +389,7 @@
     "name" : "SZ_ Naoto",
     "official" : true,
     "status" : 10,
-    "fans" : 1342,
+    "fans" : 1343,
     "level" : 59
   }, {
     "id" : 10008641,
@@ -396,7 +403,7 @@
     "name" : "ワルプルギス",
     "official" : true,
     "status" : 10,
-    "fans" : 1245,
+    "fans" : 1247,
     "level" : 92
   }, {
     "id" : 10149686,
@@ -410,8 +417,8 @@
     "name" : "ゆうこる",
     "official" : true,
     "status" : 10,
-    "fans" : 1204,
-    "level" : 26
+    "fans" : 1206,
+    "level" : 27
   }, {
     "id" : 10008249,
     "name" : "odoritora / Riddle",
@@ -424,7 +431,7 @@
     "name" : "F4teゝぐんび君",
     "official" : false,
     "status" : 10,
-    "fans" : 1186,
+    "fans" : 1190,
     "level" : 62
   }, {
     "id" : 10212123,
@@ -438,7 +445,7 @@
     "name" : "ダヤン/Dayan",
     "official" : true,
     "status" : 10,
-    "fans" : 1161,
+    "fans" : 1162,
     "level" : 54
   }, {
     "id" : 10004668,
@@ -494,28 +501,28 @@
     "name" : "EVO JAPAN 3ch",
     "official" : true,
     "status" : 10,
-    "fans" : 956,
+    "fans" : 957,
     "level" : 130
   }, {
     "id" : 10000223,
     "name" : "くろすけ",
     "official" : true,
     "status" : 10,
-    "fans" : 937,
+    "fans" : 938,
     "level" : 56
   }, {
     "id" : 10038706,
     "name" : "ファルコン竹田です",
     "official" : true,
     "status" : 10,
-    "fans" : 928,
+    "fans" : 931,
     "level" : 56
   }, {
     "id" : 10002916,
     "name" : "ぱんだ",
     "official" : true,
     "status" : 10,
-    "fans" : 892,
+    "fans" : 893,
     "level" : 32
   }, {
     "id" : 10012228,
@@ -536,8 +543,15 @@
     "name" : "くろのん",
     "official" : true,
     "status" : 10,
-    "fans" : 807,
-    "level" : 73
+    "fans" : 808,
+    "level" : 74
+  }, {
+    "id" : 10018169,
+    "name" : "5don",
+    "official" : false,
+    "status" : 10,
+    "fans" : 785,
+    "level" : 66
   }, {
     "id" : 10011483,
     "name" : "Liberta えいむ",
@@ -564,7 +578,7 @@
     "name" : "ぴえろ",
     "official" : false,
     "status" : 10,
-    "fans" : 705,
+    "fans" : 707,
     "level" : 91
   }, {
     "id" : 10014729,
@@ -599,7 +613,7 @@
     "name" : "それは",
     "official" : true,
     "status" : 10,
-    "fans" : 673,
+    "fans" : 675,
     "level" : 68
   }, {
     "id" : 10087021,
@@ -641,7 +655,7 @@
     "name" : "R_kun",
     "official" : false,
     "status" : 10,
-    "fans" : 650,
+    "fans" : 651,
     "level" : 72
   }, {
     "id" : 10017734,
@@ -655,8 +669,15 @@
     "name" : "おにつ",
     "official" : false,
     "status" : 10,
-    "fans" : 632,
+    "fans" : 633,
     "level" : 16
+  }, {
+    "id" : 10007860,
+    "name" : "Kqbon",
+    "official" : false,
+    "status" : 10,
+    "fans" : 615,
+    "level" : 68
   }, {
     "id" : 10022663,
     "name" : "ときど信者",
@@ -665,25 +686,18 @@
     "fans" : 615,
     "level" : 70
   }, {
-    "id" : 10007860,
-    "name" : "Kqbon",
-    "official" : false,
-    "status" : 10,
-    "fans" : 614,
-    "level" : 68
-  }, {
     "id" : 10039494,
     "name" : "かえで_MisterClan K",
     "official" : false,
     "status" : 10,
-    "fans" : 605,
+    "fans" : 606,
     "level" : 68
   }, {
     "id" : 10009103,
     "name" : "池ちゃん",
     "official" : false,
     "status" : 10,
-    "fans" : 592,
+    "fans" : 593,
     "level" : 77
   }, {
     "id" : 10000220,
@@ -753,7 +767,7 @@
     "name" : "ずちこ",
     "official" : false,
     "status" : 10,
-    "fans" : 545,
+    "fans" : 547,
     "level" : 76
   }, {
     "id" : 10014942,
@@ -791,19 +805,19 @@
     "fans" : 531,
     "level" : 10
   }, {
+    "id" : 100001,
+    "name" : "EVO JAPAN 1ch",
+    "official" : true,
+    "status" : 10,
+    "fans" : 528,
+    "level" : 130
+  }, {
     "id" : 10017290,
     "name" : "もっちChannel",
     "official" : false,
     "status" : 10,
     "fans" : 527,
     "level" : 83
-  }, {
-    "id" : 100001,
-    "name" : "EVO JAPAN 1ch",
-    "official" : true,
-    "status" : 10,
-    "fans" : 526,
-    "level" : 130
   }, {
     "id" : 10023807,
     "name" : "Lost",
@@ -844,7 +858,7 @@
     "name" : "R4wl-ろうる",
     "official" : false,
     "status" : 10,
-    "fans" : 502,
+    "fans" : 504,
     "level" : 59
   }, {
     "id" : 10000143,
@@ -893,7 +907,7 @@
     "name" : "じょうじ　（じょじファミ）",
     "official" : false,
     "status" : 10,
-    "fans" : 477,
+    "fans" : 479,
     "level" : 64
   }, {
     "id" : 10003163,
@@ -935,7 +949,7 @@
     "name" : "かわたまん。",
     "official" : false,
     "status" : 10,
-    "fans" : 461,
+    "fans" : 462,
     "level" : 68
   }, {
     "id" : 10000586,
@@ -957,7 +971,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 446,
-    "level" : 85
+    "level" : 86
   }, {
     "id" : 10010485,
     "name" : "カナリアチャンネル",
@@ -977,8 +991,8 @@
     "name" : "SZ_Rino",
     "official" : true,
     "status" : 10,
-    "fans" : 422,
-    "level" : 58
+    "fans" : 421,
+    "level" : 59
   }, {
     "id" : 10014317,
     "name" : ":D AlpaN",
@@ -1071,6 +1085,13 @@
     "fans" : 391,
     "level" : 13
   }, {
+    "id" : 10005761,
+    "name" : "popopopoooooooon",
+    "official" : false,
+    "status" : 10,
+    "fans" : 391,
+    "level" : 68
+  }, {
     "id" : 10044111,
     "name" : "MaNato",
     "official" : false,
@@ -1106,13 +1127,6 @@
     "fans" : 376,
     "level" : 68
   }, {
-    "id" : 10000148,
-    "name" : "倉石風汰/CrySheep",
-    "official" : false,
-    "status" : 10,
-    "fans" : 373,
-    "level" : 86
-  }, {
     "id" : 10004051,
     "name" : "XIta",
     "official" : false,
@@ -1126,6 +1140,13 @@
     "status" : 10,
     "fans" : 372,
     "level" : 52
+  }, {
+    "id" : 10000148,
+    "name" : "倉石風汰/CrySheep",
+    "official" : false,
+    "status" : 10,
+    "fans" : 372,
+    "level" : 86
   }, {
     "id" : 10103362,
     "name" : "レオ専のきすぐ@IdentityV",
@@ -1141,6 +1162,13 @@
     "fans" : 371,
     "level" : 65
   }, {
+    "id" : 10007959,
+    "name" : "nEins/こあらのすけ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 371,
+    "level" : 59
+  }, {
     "id" : 10006188,
     "name" : "おぜう",
     "official" : false,
@@ -1148,12 +1176,12 @@
     "fans" : 371,
     "level" : 84
   }, {
-    "id" : 10007959,
-    "name" : "nEins/こあらのすけ",
+    "id" : 10024407,
+    "name" : "あー助くん。",
     "official" : false,
     "status" : 10,
-    "fans" : 370,
-    "level" : 59
+    "fans" : 369,
+    "level" : 78
   }, {
     "id" : 10042111,
     "name" : "しゃるくん",
@@ -1161,13 +1189,6 @@
     "status" : 10,
     "fans" : 369,
     "level" : 61
-  }, {
-    "id" : 10024407,
-    "name" : "あー助くん。",
-    "official" : false,
-    "status" : 10,
-    "fans" : 368,
-    "level" : 78
   }, {
     "id" : 10009499,
     "name" : "ぽか",
@@ -1187,14 +1208,14 @@
     "name" : "SCARZ Lise",
     "official" : true,
     "status" : 10,
-    "fans" : 361,
+    "fans" : 363,
     "level" : 55
   }, {
     "id" : 10079079,
     "name" : "ポケカメン@最強の人",
     "official" : false,
     "status" : 10,
-    "fans" : 361,
+    "fans" : 362,
     "level" : 26
   }, {
     "id" : 10003873,
@@ -1274,6 +1295,13 @@
     "fans" : 347,
     "level" : 89
   }, {
+    "id" : 10000404,
+    "name" : "KG.Take",
+    "official" : false,
+    "status" : 10,
+    "fans" : 344,
+    "level" : 67
+  }, {
     "id" : 10244028,
     "name" : "hanada",
     "official" : false,
@@ -1281,19 +1309,12 @@
     "fans" : 344,
     "level" : 32
   }, {
-    "id" : 10000404,
-    "name" : "KG.Take",
-    "official" : false,
-    "status" : 10,
-    "fans" : 343,
-    "level" : 67
-  }, {
     "id" : 10018495,
     "name" : "さけのもか【NTS】",
     "official" : false,
     "status" : 10,
-    "fans" : 342,
-    "level" : 69
+    "fans" : 344,
+    "level" : 70
   }, {
     "id" : 10011740,
     "name" : "リズアートキッズ.",
@@ -1327,7 +1348,7 @@
     "name" : "ORAF",
     "official" : false,
     "status" : 10,
-    "fans" : 332,
+    "fans" : 333,
     "level" : 60
   }, {
     "id" : 10014349,
@@ -1351,6 +1372,13 @@
     "fans" : 329,
     "level" : 61
   }, {
+    "id" : 10126439,
+    "name" : "燕ちゃんねる",
+    "official" : false,
+    "status" : 10,
+    "fans" : 329,
+    "level" : 64
+  }, {
     "id" : 10000158,
     "name" : "七瀬あおい*",
     "official" : false,
@@ -1372,18 +1400,11 @@
     "fans" : 327,
     "level" : 79
   }, {
-    "id" : 10126439,
-    "name" : "燕ちゃんねる",
-    "official" : false,
-    "status" : 10,
-    "fans" : 327,
-    "level" : 64
-  }, {
     "id" : 10155553,
     "name" : "おいちゃん。",
     "official" : false,
     "status" : 10,
-    "fans" : 324,
+    "fans" : 323,
     "level" : 61
   }, {
     "id" : 10011803,
@@ -1435,6 +1456,13 @@
     "fans" : 310,
     "level" : 77
   }, {
+    "id" : 10000359,
+    "name" : "アリアプロ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 310,
+    "level" : 81
+  }, {
     "id" : 10005572,
     "name" : "リトルキング（PUBGプレイヤー)",
     "official" : true,
@@ -1442,12 +1470,12 @@
     "fans" : 307,
     "level" : 75
   }, {
-    "id" : 10000359,
-    "name" : "アリアプロ",
+    "id" : 10023142,
+    "name" : "kid.",
     "official" : false,
     "status" : 10,
-    "fans" : 307,
-    "level" : 81
+    "fans" : 305,
+    "level" : 82
   }, {
     "id" : 10022143,
     "name" : "あるとにき",
@@ -1455,6 +1483,13 @@
     "status" : 10,
     "fans" : 304,
     "level" : 84
+  }, {
+    "id" : 10025569,
+    "name" : "りぶら&じゅにあ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 304,
+    "level" : 64
   }, {
     "id" : 10004792,
     "name" : "しゅり",
@@ -1469,13 +1504,6 @@
     "status" : 10,
     "fans" : 303,
     "level" : 72
-  }, {
-    "id" : 10025569,
-    "name" : "りぶら&じゅにあ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 302,
-    "level" : 64
   }, {
     "id" : 10019369,
     "name" : "ちゃんねるマシュ",
@@ -1561,6 +1589,13 @@
     "fans" : 288,
     "level" : 79
   }, {
+    "id" : 10114346,
+    "name" : "ちゃなとす",
+    "official" : false,
+    "status" : 10,
+    "fans" : 286,
+    "level" : 63
+  }, {
     "id" : 10030581,
     "name" : "たぬ/)/)",
     "official" : false,
@@ -1574,13 +1609,6 @@
     "status" : 10,
     "fans" : 285,
     "level" : 26
-  }, {
-    "id" : 10114346,
-    "name" : "ちゃなとす",
-    "official" : false,
-    "status" : 10,
-    "fans" : 285,
-    "level" : 63
   }, {
     "id" : 10006586,
     "name" : "楽メ攻略",
@@ -1603,11 +1631,18 @@
     "fans" : 282,
     "level" : 54
   }, {
+    "id" : 10006186,
+    "name" : "SHOGOKUN",
+    "official" : false,
+    "status" : 10,
+    "fans" : 282,
+    "level" : 79
+  }, {
     "id" : 10001923,
     "name" : "前田まつ",
     "official" : false,
     "status" : 10,
-    "fans" : 279,
+    "fans" : 280,
     "level" : 69
   }, {
     "id" : 10243791,
@@ -1645,19 +1680,19 @@
     "fans" : 274,
     "level" : 49
   }, {
-    "id" : 10018492,
-    "name" : "ろいしゅ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 272,
-    "level" : 90
-  }, {
     "id" : 10085084,
     "name" : "ちまだʕ•̫͡•ʔむたのすけ",
     "official" : false,
     "status" : 10,
     "fans" : 272,
     "level" : 61
+  }, {
+    "id" : 10018492,
+    "name" : "ろいしゅ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 272,
+    "level" : 90
   }, {
     "id" : 10014095,
     "name" : "じいじ@LOL_PUBG",
@@ -1687,6 +1722,13 @@
     "fans" : 270,
     "level" : 78
   }, {
+    "id" : 10019046,
+    "name" : "白いゴハン",
+    "official" : false,
+    "status" : 10,
+    "fans" : 269,
+    "level" : 72
+  }, {
     "id" : 10025433,
     "name" : "りんすけ",
     "official" : false,
@@ -1701,25 +1743,18 @@
     "fans" : 269,
     "level" : 13
   }, {
-    "id" : 10019046,
-    "name" : "白いゴハン",
-    "official" : false,
-    "status" : 10,
-    "fans" : 269,
-    "level" : 72
-  }, {
     "id" : 10113309,
     "name" : "ryuseiiiiiiiiii  *☂︎*̣̩⋆̩",
     "official" : false,
     "status" : 10,
-    "fans" : 267,
+    "fans" : 268,
     "level" : 68
   }, {
     "id" : 10007561,
     "name" : "メンダコ向日葵",
     "official" : false,
     "status" : 10,
-    "fans" : 266,
+    "fans" : 267,
     "level" : 65
   }, {
     "id" : 10104182,
@@ -1750,19 +1785,19 @@
     "fans" : 261,
     "level" : 69
   }, {
+    "id" : 10050854,
+    "name" : "レナス",
+    "official" : true,
+    "status" : 10,
+    "fans" : 260,
+    "level" : 36
+  }, {
     "id" : 10026704,
     "name" : "D4ntalion",
     "official" : true,
     "status" : 10,
     "fans" : 259,
     "level" : 53
-  }, {
-    "id" : 10132962,
-    "name" : "kakumalu",
-    "official" : false,
-    "status" : 10,
-    "fans" : 259,
-    "level" : 49
   }, {
     "id" : 10012861,
     "name" : "めるに",
@@ -1778,12 +1813,12 @@
     "fans" : 259,
     "level" : 63
   }, {
-    "id" : 10050854,
-    "name" : "レナス",
-    "official" : true,
+    "id" : 10132962,
+    "name" : "kakumalu",
+    "official" : false,
     "status" : 10,
-    "fans" : 259,
-    "level" : 36
+    "fans" : 258,
+    "level" : 49
   }, {
     "id" : 10040771,
     "name" : "SHI",
@@ -1792,19 +1827,19 @@
     "fans" : 256,
     "level" : 63
   }, {
-    "id" : 10118483,
-    "name" : "ヨシ yoshi",
-    "official" : false,
-    "status" : 10,
-    "fans" : 253,
-    "level" : 54
-  }, {
     "id" : 10243964,
     "name" : "あまりよ",
     "official" : false,
     "status" : 10,
     "fans" : 253,
     "level" : 18
+  }, {
+    "id" : 10118483,
+    "name" : "ヨシ yoshi",
+    "official" : false,
+    "status" : 10,
+    "fans" : 253,
+    "level" : 54
   }, {
     "id" : 10155403,
     "name" : "ぷれいやぁー",
@@ -1848,19 +1883,19 @@
     "fans" : 249,
     "level" : 44
   }, {
-    "id" : 10095721,
-    "name" : "つきなみ詩音",
-    "official" : false,
-    "status" : 10,
-    "fans" : 249,
-    "level" : 85
-  }, {
     "id" : 10189803,
     "name" : "だいちフォトナ",
     "official" : false,
     "status" : 10,
     "fans" : 249,
     "level" : 5
+  }, {
+    "id" : 10095721,
+    "name" : "つきなみ詩音",
+    "official" : false,
+    "status" : 10,
+    "fans" : 248,
+    "level" : 85
   }, {
     "id" : 10068273,
     "name" : "プニクマ",
@@ -1883,6 +1918,13 @@
     "fans" : 246,
     "level" : 71
   }, {
+    "id" : 10004950,
+    "name" : "INorU",
+    "official" : false,
+    "status" : 10,
+    "fans" : 246,
+    "level" : 79
+  }, {
     "id" : 10010279,
     "name" : "125",
     "official" : false,
@@ -1897,19 +1939,26 @@
     "fans" : 244,
     "level" : 53
   }, {
-    "id" : 10140661,
-    "name" : "R1SE٭坂口杏理💋(作)",
-    "official" : false,
-    "status" : 10,
-    "fans" : 243,
-    "level" : 44
-  }, {
     "id" : 10158302,
     "name" : "nekojirou",
     "official" : false,
     "status" : 10,
     "fans" : 243,
     "level" : 59
+  }, {
+    "id" : 10140661,
+    "name" : "R1SE٭坂口杏理💋(作)",
+    "official" : false,
+    "status" : 10,
+    "fans" : 243,
+    "level" : 45
+  }, {
+    "id" : 10077653,
+    "name" : "あめうち",
+    "official" : false,
+    "status" : 10,
+    "fans" : 243,
+    "level" : 63
   }, {
     "id" : 10001787,
     "name" : "ちゃもまる",
@@ -1924,13 +1973,6 @@
     "status" : 10,
     "fans" : 240,
     "level" : 22
-  }, {
-    "id" : 10077653,
-    "name" : "あめうち",
-    "official" : false,
-    "status" : 10,
-    "fans" : 240,
-    "level" : 63
   }, {
     "id" : 10020199,
     "name" : "めおめお",
@@ -2009,6 +2051,13 @@
     "fans" : 232,
     "level" : 60
   }, {
+    "id" : 10001246,
+    "name" : "遥人【TNT】",
+    "official" : false,
+    "status" : 10,
+    "fans" : 232,
+    "level" : 64
+  }, {
     "id" : 10000134,
     "name" : "SZ.Peco",
     "official" : true,
@@ -2058,6 +2107,13 @@
     "fans" : 228,
     "level" : 44
   }, {
+    "id" : 10086171,
+    "name" : "おーきー",
+    "official" : false,
+    "status" : 10,
+    "fans" : 228,
+    "level" : 75
+  }, {
     "id" : 10004842,
     "name" : "アオカモ",
     "official" : false,
@@ -2065,12 +2121,12 @@
     "fans" : 228,
     "level" : 70
   }, {
-    "id" : 10086171,
-    "name" : "おーきー",
+    "id" : 10002024,
+    "name" : "LeafJP",
     "official" : false,
     "status" : 10,
-    "fans" : 227,
-    "level" : 75
+    "fans" : 226,
+    "level" : 80
   }, {
     "id" : 10082401,
     "name" : "Aki-Games / あきゲームズ",
@@ -2107,19 +2163,19 @@
     "fans" : 225,
     "level" : 83
   }, {
-    "id" : 10002024,
-    "name" : "LeafJP",
-    "official" : false,
-    "status" : 10,
-    "fans" : 225,
-    "level" : 80
-  }, {
     "id" : 10039833,
     "name" : "Shiva@皆の姉さん",
     "official" : false,
     "status" : 10,
     "fans" : 224,
     "level" : 72
+  }, {
+    "id" : 10047093,
+    "name" : "おづぶりゅう",
+    "official" : false,
+    "status" : 10,
+    "fans" : 224,
+    "level" : 62
   }, {
     "id" : 10006279,
     "name" : "おちび",
@@ -2134,13 +2190,6 @@
     "status" : 10,
     "fans" : 223,
     "level" : 72
-  }, {
-    "id" : 10047093,
-    "name" : "おづぶりゅう",
-    "official" : false,
-    "status" : 10,
-    "fans" : 223,
-    "level" : 62
   }, {
     "id" : 10118393,
     "name" : "れぼ",
@@ -2188,7 +2237,7 @@
     "name" : "木村カエラナイ",
     "official" : false,
     "status" : 10,
-    "fans" : 220,
+    "fans" : 221,
     "level" : 58
   }, {
     "id" : 10116139,
@@ -2219,19 +2268,19 @@
     "fans" : 215,
     "level" : 61
   }, {
+    "id" : 10014460,
+    "name" : "よん",
+    "official" : false,
+    "status" : 10,
+    "fans" : 215,
+    "level" : 76
+  }, {
     "id" : 10091238,
     "name" : "guratan",
     "official" : false,
     "status" : 10,
     "fans" : 214,
     "level" : 81
-  }, {
-    "id" : 10014460,
-    "name" : "よん",
-    "official" : false,
-    "status" : 10,
-    "fans" : 214,
-    "level" : 76
   }, {
     "id" : 10022215,
     "name" : "ガイジ先生",
@@ -2310,6 +2359,13 @@
     "fans" : 202,
     "level" : 66
   }, {
+    "id" : 10000178,
+    "name" : "kanaria Games",
+    "official" : false,
+    "status" : 10,
+    "fans" : 202,
+    "level" : 86
+  }, {
     "id" : 10014366,
     "name" : "ごきたま夫婦",
     "official" : false,
@@ -2344,6 +2400,13 @@
     "status" : 10,
     "fans" : 197,
     "level" : 71
+  }, {
+    "id" : 10007972,
+    "name" : "nEins/じゅん(junsmri)",
+    "official" : false,
+    "status" : 10,
+    "fans" : 196,
+    "level" : 67
   }, {
     "id" : 10144902,
     "name" : "しゅんしゃん",
@@ -2392,14 +2455,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 195,
-    "level" : 82
-  }, {
-    "id" : 10007972,
-    "name" : "nEins/じゅん(junsmri)",
-    "official" : false,
-    "status" : 10,
-    "fans" : 194,
-    "level" : 66
+    "level" : 83
   }, {
     "id" : 10001646,
     "name" : "GL  GULICK",
@@ -2454,7 +2510,7 @@
     "name" : "towa19",
     "official" : false,
     "status" : 10,
-    "fans" : 188,
+    "fans" : 190,
     "level" : 61
   }, {
     "id" : 10029136,
@@ -2492,13 +2548,6 @@
     "fans" : 186,
     "level" : 72
   }, {
-    "id" : 10082140,
-    "name" : "夜桜P /Lipps.owner",
-    "official" : false,
-    "status" : 10,
-    "fans" : 184,
-    "level" : 69
-  }, {
     "id" : 10001690,
     "name" : "Kazutanuki",
     "official" : false,
@@ -2506,12 +2555,12 @@
     "fans" : 184,
     "level" : 74
   }, {
-    "id" : 10010721,
-    "name" : "Ashley",
+    "id" : 10082140,
+    "name" : "夜桜P /Lipps.owner",
     "official" : false,
     "status" : 10,
-    "fans" : 183,
-    "level" : 44
+    "fans" : 184,
+    "level" : 69
   }, {
     "id" : 10022895,
     "name" : "まざらし",
@@ -2595,7 +2644,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 174,
-    "level" : 14
+    "level" : 15
   }, {
     "id" : 10031065,
     "name" : "【NEXUS】ぬっくん",
@@ -2616,7 +2665,14 @@
     "official" : false,
     "status" : 10,
     "fans" : 172,
-    "level" : 83
+    "level" : 84
+  }, {
+    "id" : 10084796,
+    "name" : "田森 就太＠SunSister",
+    "official" : false,
+    "status" : 10,
+    "fans" : 171,
+    "level" : 50
   }, {
     "id" : 10020429,
     "name" : "Sirius_49514",
@@ -2646,12 +2702,12 @@
     "fans" : 170,
     "level" : 67
   }, {
-    "id" : 10084796,
-    "name" : "田森 就太＠SunSister",
+    "id" : 10123879,
+    "name" : "sagami0011",
     "official" : false,
     "status" : 10,
     "fans" : 169,
-    "level" : 50
+    "level" : 58
   }, {
     "id" : 10000133,
     "name" : "SZ.Fujidai",
@@ -2680,13 +2736,6 @@
     "status" : 10,
     "fans" : 169,
     "level" : 43
-  }, {
-    "id" : 10123879,
-    "name" : "sagami0011",
-    "official" : false,
-    "status" : 10,
-    "fans" : 168,
-    "level" : 58
   }, {
     "id" : 10115090,
     "name" : "エジプトの香り",
@@ -2765,6 +2814,13 @@
     "fans" : 162,
     "level" : 66
   }, {
+    "id" : 10000644,
+    "name" : "minami0928",
+    "official" : false,
+    "status" : 10,
+    "fans" : 162,
+    "level" : 58
+  }, {
     "id" : 10000693,
     "name" : "リテイルローのおじさん",
     "official" : false,
@@ -2807,19 +2863,19 @@
     "fans" : 158,
     "level" : 6
   }, {
+    "id" : 10256230,
+    "name" : "みどりかぜ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 157,
+    "level" : 18
+  }, {
     "id" : 10004797,
     "name" : "はとぽっぽ＠相互",
     "official" : false,
     "status" : 10,
     "fans" : 157,
     "level" : 66
-  }, {
-    "id" : 10256230,
-    "name" : "みどりかぜ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 156,
-    "level" : 18
   }, {
     "id" : 10036539,
     "name" : "フータ",
@@ -2834,6 +2890,13 @@
     "status" : 10,
     "fans" : 155,
     "level" : 52
+  }, {
+    "id" : 10002379,
+    "name" : "4kaku_3kaku",
+    "official" : false,
+    "status" : 10,
+    "fans" : 155,
+    "level" : 67
   }, {
     "id" : 10079172,
     "name" : "タケ子",
@@ -2884,13 +2947,6 @@
     "fans" : 149,
     "level" : 24
   }, {
-    "id" : 10104328,
-    "name" : "はらだくん",
-    "official" : false,
-    "status" : 10,
-    "fans" : 148,
-    "level" : 55
-  }, {
     "id" : 10006200,
     "name" : "らむむ",
     "official" : false,
@@ -2904,6 +2960,13 @@
     "status" : 10,
     "fans" : 147,
     "level" : 57
+  }, {
+    "id" : 10104328,
+    "name" : "はらだくん",
+    "official" : false,
+    "status" : 10,
+    "fans" : 147,
+    "level" : 55
   }, {
     "id" : 10080489,
     "name" : "まんさや",
@@ -2926,6 +2989,13 @@
     "fans" : 145,
     "level" : 65
   }, {
+    "id" : 10007325,
+    "name" : "nEins/まんぐーす",
+    "official" : false,
+    "status" : 10,
+    "fans" : 145,
+    "level" : 66
+  }, {
     "id" : 10010567,
     "name" : "SmeLity",
     "official" : false,
@@ -2939,13 +3009,6 @@
     "status" : 10,
     "fans" : 144,
     "level" : 72
-  }, {
-    "id" : 10007325,
-    "name" : "nEins/まんぐーす",
-    "official" : false,
-    "status" : 10,
-    "fans" : 144,
-    "level" : 66
   }, {
     "id" : 10082529,
     "name" : "える。",
@@ -3078,7 +3141,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 137,
-    "level" : 51
+    "level" : 52
   }, {
     "id" : 10078165,
     "name" : "みとまるヽイエティ🎃🦍",
@@ -3122,6 +3185,13 @@
     "fans" : 134,
     "level" : 72
   }, {
+    "id" : 10006587,
+    "name" : "たなかたけこ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 134,
+    "level" : 73
+  }, {
     "id" : 10013465,
     "name" : "ゆっける",
     "official" : false,
@@ -3129,18 +3199,11 @@
     "fans" : 134,
     "level" : 50
   }, {
-    "id" : 10006587,
-    "name" : "たなかたけこ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 133,
-    "level" : 73
-  }, {
     "id" : 10016704,
     "name" : "りーさん",
     "official" : false,
     "status" : 10,
-    "fans" : 133,
+    "fans" : 134,
     "level" : 72
   }, {
     "id" : 10126730,
@@ -3276,12 +3339,26 @@
     "fans" : 127,
     "level" : 64
   }, {
+    "id" : 10243796,
+    "name" : "ヘタレ（きつねおすし）",
+    "official" : false,
+    "status" : 10,
+    "fans" : 127,
+    "level" : 28
+  }, {
     "id" : 10048241,
     "name" : "ガロウOuO",
     "official" : false,
     "status" : 10,
     "fans" : 127,
     "level" : 51
+  }, {
+    "id" : 10001762,
+    "name" : "sonairo",
+    "official" : true,
+    "status" : 10,
+    "fans" : 126,
+    "level" : 63
   }, {
     "id" : 10031591,
     "name" : "ねむ-nem3",
@@ -3311,13 +3388,6 @@
     "fans" : 126,
     "level" : 69
   }, {
-    "id" : 10243796,
-    "name" : "ヘタレ（きつねおすし）",
-    "official" : false,
-    "status" : 10,
-    "fans" : 126,
-    "level" : 28
-  }, {
     "id" : 10004306,
     "name" : "けんけんは乙女",
     "official" : false,
@@ -3346,19 +3416,19 @@
     "fans" : 126,
     "level" : 81
   }, {
-    "id" : 10001762,
-    "name" : "sonairo",
-    "official" : true,
-    "status" : 10,
-    "fans" : 125,
-    "level" : 63
-  }, {
     "id" : 10020853,
     "name" : "リィンベルGames",
     "official" : false,
     "status" : 10,
     "fans" : 125,
     "level" : 76
+  }, {
+    "id" : 10006178,
+    "name" : "きくざかり",
+    "official" : false,
+    "status" : 10,
+    "fans" : 125,
+    "level" : 12
   }, {
     "id" : 10032348,
     "name" : "ホングコング",
@@ -3372,7 +3442,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 124,
-    "level" : 58
+    "level" : 59
   }, {
     "id" : 10155669,
     "name" : "いっせいとどいちゃん",
@@ -3381,19 +3451,19 @@
     "fans" : 124,
     "level" : 44
   }, {
-    "id" : 10006178,
-    "name" : "きくざかり",
-    "official" : false,
-    "status" : 10,
-    "fans" : 124,
-    "level" : 12
-  }, {
     "id" : 10096022,
     "name" : "こまちん",
     "official" : false,
     "status" : 10,
     "fans" : 124,
     "level" : 24
+  }, {
+    "id" : 10219202,
+    "name" : "らびっちょ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 124,
+    "level" : 47
   }, {
     "id" : 10009700,
     "name" : "Kazuくん",
@@ -3423,19 +3493,26 @@
     "fans" : 123,
     "level" : 63
   }, {
-    "id" : 10219202,
-    "name" : "らびっちょ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 123,
-    "level" : 46
-  }, {
     "id" : 10101381,
     "name" : "〆決めクマ",
     "official" : false,
     "status" : 10,
     "fans" : 123,
     "level" : 67
+  }, {
+    "id" : 10122734,
+    "name" : "カピさん@スマブラ(Midom&Youtube)",
+    "official" : false,
+    "status" : 10,
+    "fans" : 121,
+    "level" : 39
+  }, {
+    "id" : 10224075,
+    "name" : "Huto@スマブラ配信",
+    "official" : true,
+    "status" : 10,
+    "fans" : 121,
+    "level" : 45
   }, {
     "id" : 10003687,
     "name" : "PEPE maru",
@@ -3458,13 +3535,6 @@
     "fans" : 121,
     "level" : 59
   }, {
-    "id" : 10224075,
-    "name" : "Huto@スマブラ配信",
-    "official" : true,
-    "status" : 10,
-    "fans" : 121,
-    "level" : 45
-  }, {
     "id" : 10090801,
     "name" : "F4teゝゆめち©︎",
     "official" : false,
@@ -3485,13 +3555,6 @@
     "status" : 10,
     "fans" : 119,
     "level" : 61
-  }, {
-    "id" : 10122734,
-    "name" : "カピさん@スマブラ(Midom&Youtube)",
-    "official" : false,
-    "status" : 10,
-    "fans" : 119,
-    "level" : 39
   }, {
     "id" : 10007649,
     "name" : "key",
@@ -3514,6 +3577,13 @@
     "fans" : 119,
     "level" : 26
   }, {
+    "id" : 10009676,
+    "name" : "Galleria.RT5",
+    "official" : false,
+    "status" : 10,
+    "fans" : 118,
+    "level" : 77
+  }, {
     "id" : 10035053,
     "name" : "垢凍結自己紹介見て",
     "official" : false,
@@ -3528,12 +3598,12 @@
     "fans" : 118,
     "level" : 67
   }, {
-    "id" : 10008607,
-    "name" : "K G",
+    "id" : 10001384,
+    "name" : "雨栗/amaguri",
     "official" : false,
     "status" : 10,
-    "fans" : 117,
-    "level" : 55
+    "fans" : 118,
+    "level" : 29
   }, {
     "id" : 10040763,
     "name" : "rnojaja",
@@ -3577,6 +3647,13 @@
     "fans" : 117,
     "level" : 40
   }, {
+    "id" : 10000647,
+    "name" : "tatuki217",
+    "official" : false,
+    "status" : 10,
+    "fans" : 116,
+    "level" : 36
+  }, {
     "id" : 10016510,
     "name" : "yuuyuu26",
     "official" : false,
@@ -3591,12 +3668,12 @@
     "fans" : 116,
     "level" : 45
   }, {
-    "id" : 10000647,
-    "name" : "tatuki217",
+    "id" : 10003455,
+    "name" : "ましゅまろ【Melius】",
     "official" : false,
     "status" : 10,
     "fans" : 115,
-    "level" : 36
+    "level" : 63
   }, {
     "id" : 10018792,
     "name" : "#ぐり#",
@@ -3654,13 +3731,6 @@
     "fans" : 114,
     "level" : 25
   }, {
-    "id" : 10003455,
-    "name" : "ましゅまろ【Melius】",
-    "official" : false,
-    "status" : 10,
-    "fans" : 113,
-    "level" : 63
-  }, {
     "id" : 10011024,
     "name" : "Te-toku Hyper",
     "official" : false,
@@ -3710,19 +3780,19 @@
     "fans" : 111,
     "level" : 77
   }, {
-    "id" : 10004713,
-    "name" : "Roskis",
-    "official" : false,
-    "status" : 10,
-    "fans" : 111,
-    "level" : 77
-  }, {
     "id" : 10010345,
     "name" : "sanmaru cel",
     "official" : false,
     "status" : 10,
     "fans" : 111,
     "level" : 63
+  }, {
+    "id" : 10004713,
+    "name" : "Roskis",
+    "official" : false,
+    "status" : 10,
+    "fans" : 111,
+    "level" : 77
   }, {
     "id" : 10145282,
     "name" : "不老不死 るぅとくん",
@@ -3752,19 +3822,19 @@
     "fans" : 111,
     "level" : 37
   }, {
-    "id" : 10004317,
-    "name" : "Opaya",
-    "official" : false,
-    "status" : 10,
-    "fans" : 110,
-    "level" : 58
-  }, {
     "id" : 10007289,
     "name" : "GTS_らるむえ",
     "official" : true,
     "status" : 10,
     "fans" : 110,
     "level" : 62
+  }, {
+    "id" : 10004317,
+    "name" : "Opaya",
+    "official" : false,
+    "status" : 10,
+    "fans" : 110,
+    "level" : 58
   }, {
     "id" : 10114549,
     "name" : "《 メタボ 》",
@@ -3773,12 +3843,12 @@
     "fans" : 109,
     "level" : 61
   }, {
-    "id" : 10004623,
-    "name" : "Ac.srrdy",
+    "id" : 10000322,
+    "name" : "KLIEN/Ayagator",
     "official" : false,
     "status" : 10,
-    "fans" : 108,
-    "level" : 57
+    "fans" : 109,
+    "level" : 46
   }, {
     "id" : 10003601,
     "name" : "あの犬(Fortnite Clips)",
@@ -3793,6 +3863,13 @@
     "status" : 10,
     "fans" : 108,
     "level" : 71
+  }, {
+    "id" : 10004623,
+    "name" : "Ac.srrdy",
+    "official" : false,
+    "status" : 10,
+    "fans" : 108,
+    "level" : 57
   }, {
     "id" : 10176526,
     "name" : "とかい育ち",
@@ -3843,6 +3920,13 @@
     "fans" : 106,
     "level" : 65
   }, {
+    "id" : 10102951,
+    "name" : "satomi❤️",
+    "official" : false,
+    "status" : 10,
+    "fans" : 105,
+    "level" : 88
+  }, {
     "id" : 10000615,
     "name" : "HE_Noiz",
     "official" : false,
@@ -3857,12 +3941,12 @@
     "fans" : 105,
     "level" : 64
   }, {
-    "id" : 10102951,
-    "name" : "satomi❤️",
+    "id" : 10011076,
+    "name" : "ちゃんち",
     "official" : false,
     "status" : 10,
     "fans" : 105,
-    "level" : 88
+    "level" : 81
   }, {
     "id" : 10128253,
     "name" : "【ゆる。】",
@@ -3892,13 +3976,6 @@
     "fans" : 104,
     "level" : 57
   }, {
-    "id" : 10011076,
-    "name" : "ちゃんち",
-    "official" : false,
-    "status" : 10,
-    "fans" : 104,
-    "level" : 81
-  }, {
     "id" : 10197882,
     "name" : "amochi2525",
     "official" : false,
@@ -3918,7 +3995,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 103,
-    "level" : 50
+    "level" : 51
   }, {
     "id" : 10027603,
     "name" : "マイとんぬら",
@@ -3926,6 +4003,20 @@
     "status" : 10,
     "fans" : 103,
     "level" : 40
+  }, {
+    "id" : 10001124,
+    "name" : "ten",
+    "official" : true,
+    "status" : 10,
+    "fans" : 103,
+    "level" : 35
+  }, {
+    "id" : 10075352,
+    "name" : "ルンバだよーん（towa民）",
+    "official" : false,
+    "status" : 10,
+    "fans" : 102,
+    "level" : 68
   }, {
     "id" : 10003201,
     "name" : "かのうメイビー",
@@ -3969,13 +4060,6 @@
     "fans" : 101,
     "level" : 72
   }, {
-    "id" : 10075352,
-    "name" : "ルンバだよーん（towa民）",
-    "official" : false,
-    "status" : 10,
-    "fans" : 101,
-    "level" : 68
-  }, {
     "id" : 10012273,
     "name" : "たつき Tatsuki cav",
     "official" : false,
@@ -3983,19 +4067,19 @@
     "fans" : 101,
     "level" : 66
   }, {
-    "id" : 10034620,
-    "name" : "RozettA_ARZ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 100,
-    "level" : 63
-  }, {
     "id" : 10018905,
     "name" : "ARASHI ch",
     "official" : false,
     "status" : 10,
     "fans" : 100,
     "level" : 62
+  }, {
+    "id" : 10034620,
+    "name" : "RozettA_ARZ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 100,
+    "level" : 63
   }, {
     "id" : 10104096,
     "name" : "闘病ぎるど",
@@ -4010,6 +4094,13 @@
     "status" : 10,
     "fans" : 100,
     "level" : 48
+  }, {
+    "id" : 10000556,
+    "name" : "KG.Gotty",
+    "official" : false,
+    "status" : 10,
+    "fans" : 100,
+    "level" : 32
   }, {
     "id" : 10105227,
     "name" : "メビウスの輪",
@@ -4102,12 +4193,26 @@
     "fans" : 96,
     "level" : 62
   }, {
+    "id" : 10000246,
+    "name" : "くみ先輩",
+    "official" : false,
+    "status" : 10,
+    "fans" : 96,
+    "level" : 80
+  }, {
     "id" : 10006408,
     "name" : "Ark5_IgniteK-JP",
     "official" : true,
     "status" : 10,
     "fans" : 95,
-    "level" : 69
+    "level" : 70
+  }, {
+    "id" : 10165137,
+    "name" : "Hika.",
+    "official" : false,
+    "status" : 10,
+    "fans" : 95,
+    "level" : 47
   }, {
     "id" : 10016636,
     "name" : "毛利556",
@@ -4151,19 +4256,12 @@
     "fans" : 95,
     "level" : 41
   }, {
-    "id" : 10165137,
-    "name" : "Hika.",
+    "id" : 10001791,
+    "name" : "franche 012",
     "official" : false,
     "status" : 10,
     "fans" : 94,
-    "level" : 47
-  }, {
-    "id" : 10080519,
-    "name" : "Purple channel",
-    "official" : false,
-    "status" : 10,
-    "fans" : 94,
-    "level" : 64
+    "level" : 70
   }, {
     "id" : 10011285,
     "name" : "Tengu",
@@ -4172,12 +4270,12 @@
     "fans" : 94,
     "level" : 75
   }, {
-    "id" : 10001791,
-    "name" : "franche 012",
+    "id" : 10080519,
+    "name" : "Purple channel",
     "official" : false,
     "status" : 10,
     "fans" : 94,
-    "level" : 70
+    "level" : 64
   }, {
     "id" : 10005609,
     "name" : "Sugar@Vtuber",
@@ -4354,19 +4452,19 @@
     "fans" : 89,
     "level" : 55
   }, {
-    "id" : 10007581,
-    "name" : "SytoaNN / しとあん",
-    "official" : false,
-    "status" : 10,
-    "fans" : 89,
-    "level" : 59
-  }, {
     "id" : 10021737,
     "name" : "ああやっち",
     "official" : false,
     "status" : 10,
     "fans" : 89,
     "level" : 84
+  }, {
+    "id" : 10007581,
+    "name" : "SytoaNN / しとあん",
+    "official" : false,
+    "status" : 10,
+    "fans" : 89,
+    "level" : 59
   }, {
     "id" : 10065270,
     "name" : "じゃむ　シャドバ",
@@ -4381,6 +4479,13 @@
     "status" : 10,
     "fans" : 89,
     "level" : 19
+  }, {
+    "id" : 10000521,
+    "name" : "定年channel",
+    "official" : false,
+    "status" : 10,
+    "fans" : 89,
+    "level" : 28
   }, {
     "id" : 10189917,
     "name" : "ぽてち064",
@@ -4417,6 +4522,13 @@
     "fans" : 88,
     "level" : 32
   }, {
+    "id" : 10000656,
+    "name" : "KAKEI",
+    "official" : false,
+    "status" : 10,
+    "fans" : 88,
+    "level" : 55
+  }, {
     "id" : 10003734,
     "name" : "クズ配信者chamo(ちゃも)",
     "official" : false,
@@ -4431,13 +4543,6 @@
     "fans" : 87,
     "level" : 56
   }, {
-    "id" : 10000603,
-    "name" : "Agenio",
-    "official" : false,
-    "status" : 10,
-    "fans" : 87,
-    "level" : 50
-  }, {
     "id" : 10004228,
     "name" : "ごっどちゃそ",
     "official" : false,
@@ -4445,12 +4550,19 @@
     "fans" : 87,
     "level" : 64
   }, {
-    "id" : 10037234,
-    "name" : "tatsuya TV",
+    "id" : 10000603,
+    "name" : "Agenio",
+    "official" : false,
+    "status" : 10,
+    "fans" : 87,
+    "level" : 50
+  }, {
+    "id" : 10010183,
+    "name" : "Rita",
     "official" : false,
     "status" : 10,
     "fans" : 86,
-    "level" : 60
+    "level" : 57
   }, {
     "id" : 10046768,
     "name" : "ちぃ18号Chii18",
@@ -4473,6 +4585,13 @@
     "fans" : 86,
     "level" : 65
   }, {
+    "id" : 10037234,
+    "name" : "tatsuya TV",
+    "official" : false,
+    "status" : 10,
+    "fans" : 86,
+    "level" : 61
+  }, {
     "id" : 10017326,
     "name" : "おいも",
     "official" : false,
@@ -4493,13 +4612,6 @@
     "status" : 10,
     "fans" : 86,
     "level" : 73
-  }, {
-    "id" : 10010183,
-    "name" : "Rita",
-    "official" : false,
-    "status" : 10,
-    "fans" : 85,
-    "level" : 57
   }, {
     "id" : 10014700,
     "name" : "AyAkA",
@@ -4527,7 +4639,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 85,
-    "level" : 19
+    "level" : 20
   }, {
     "id" : 10147975,
     "name" : "まうふぃんキッズ",
@@ -4565,7 +4677,7 @@
     "level" : 45
   }, {
     "id" : 10117591,
-    "name" : "メンヘラちゃん*☂︎*̣̩⋆̩",
+    "name" : "Klaus*☂︎*̣̩⋆̩【くら神】【メンヘラ】",
     "official" : false,
     "status" : 10,
     "fans" : 83,
@@ -4641,12 +4753,12 @@
     "fans" : 82,
     "level" : 56
   }, {
-    "id" : 10001663,
-    "name" : "hoshimi",
-    "official" : true,
+    "id" : 10002507,
+    "name" : "Augusty",
+    "official" : false,
     "status" : 10,
-    "fans" : 81,
-    "level" : 53
+    "fans" : 82,
+    "level" : 57
   }, {
     "id" : 10092553,
     "name" : "Hiroto㌠",
@@ -4683,6 +4795,13 @@
     "fans" : 81,
     "level" : 33
   }, {
+    "id" : 10001663,
+    "name" : "hoshimi",
+    "official" : true,
+    "status" : 10,
+    "fans" : 81,
+    "level" : 53
+  }, {
     "id" : 10003733,
     "name" : "やみやみ@黒い砂漠",
     "official" : false,
@@ -4711,6 +4830,20 @@
     "fans" : 80,
     "level" : 50
   }, {
+    "id" : 10000249,
+    "name" : "yuuno",
+    "official" : false,
+    "status" : 10,
+    "fans" : 80,
+    "level" : 52
+  }, {
+    "id" : 10005564,
+    "name" : "Yamu",
+    "official" : false,
+    "status" : 10,
+    "fans" : 80,
+    "level" : 53
+  }, {
     "id" : 10003706,
     "name" : "Konny",
     "official" : false,
@@ -4731,6 +4864,13 @@
     "status" : 10,
     "fans" : 79,
     "level" : 58
+  }, {
+    "id" : 10012322,
+    "name" : "マメぴよ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 79,
+    "level" : 65
   }, {
     "id" : 10005337,
     "name" : "シロキシ",
@@ -4781,13 +4921,6 @@
     "fans" : 78,
     "level" : 65
   }, {
-    "id" : 10012322,
-    "name" : "マメぴよ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 78,
-    "level" : 65
-  }, {
     "id" : 10006689,
     "name" : "よう",
     "official" : false,
@@ -4801,6 +4934,13 @@
     "status" : 10,
     "fans" : 77,
     "level" : 72
+  }, {
+    "id" : 10227530,
+    "name" : "ぴか　ＤＱＲ",
+    "official" : true,
+    "status" : 10,
+    "fans" : 77,
+    "level" : 7
   }, {
     "id" : 10197187,
     "name" : "あひるちゃん",
@@ -4850,6 +4990,13 @@
     "status" : 10,
     "fans" : 77,
     "level" : 5
+  }, {
+    "id" : 10002078,
+    "name" : "ms95",
+    "official" : false,
+    "status" : 10,
+    "fans" : 77,
+    "level" : 28
   }, {
     "id" : 10004319,
     "name" : "Soravity",
@@ -4963,13 +5110,6 @@
     "fans" : 74,
     "level" : 57
   }, {
-    "id" : 10227530,
-    "name" : "ぴか　ＤＱＲ",
-    "official" : true,
-    "status" : 10,
-    "fans" : 74,
-    "level" : 7
-  }, {
     "id" : 10000188,
     "name" : "fantom",
     "official" : true,
@@ -4991,6 +5131,13 @@
     "fans" : 74,
     "level" : 64
   }, {
+    "id" : 10259376,
+    "name" : "俺千条ちひ太郎",
+    "official" : false,
+    "status" : 10,
+    "fans" : 74,
+    "level" : 29
+  }, {
     "id" : 10004486,
     "name" : "たいぴ",
     "official" : false,
@@ -5005,12 +5152,26 @@
     "fans" : 74,
     "level" : 61
   }, {
+    "id" : 10004132,
+    "name" : "秀明",
+    "official" : false,
+    "status" : 10,
+    "fans" : 74,
+    "level" : 60
+  }, {
     "id" : 10258326,
     "name" : "CAPURICO",
     "official" : false,
     "status" : 10,
     "fans" : 73,
     "level" : 14
+  }, {
+    "id" : 10079541,
+    "name" : "TOMO",
+    "official" : false,
+    "status" : 10,
+    "fans" : 73,
+    "level" : 64
   }, {
     "id" : 10022385,
     "name" : "オズマ/ozuma",
@@ -5040,12 +5201,12 @@
     "fans" : 73,
     "level" : 29
   }, {
-    "id" : 10259376,
-    "name" : "俺千条ちひ太郎",
+    "id" : 10033345,
+    "name" : "マッヒー",
     "official" : false,
     "status" : 10,
     "fans" : 73,
-    "level" : 28
+    "level" : 58
   }, {
     "id" : 10000772,
     "name" : "レックス",
@@ -5054,19 +5215,19 @@
     "fans" : 73,
     "level" : 44
   }, {
-    "id" : 10033345,
-    "name" : "マッヒー",
-    "official" : false,
-    "status" : 10,
-    "fans" : 73,
-    "level" : 58
-  }, {
     "id" : 10097136,
     "name" : "ALC_Rio",
     "official" : false,
     "status" : 10,
     "fans" : 72,
     "level" : 68
+  }, {
+    "id" : 10000520,
+    "name" : "RenoTe",
+    "official" : false,
+    "status" : 10,
+    "fans" : 72,
+    "level" : 57
   }, {
     "id" : 10004701,
     "name" : "Replus",
@@ -5081,13 +5242,6 @@
     "status" : 10,
     "fans" : 72,
     "level" : 23
-  }, {
-    "id" : 10007080,
-    "name" : "うさぱん",
-    "official" : false,
-    "status" : 10,
-    "fans" : 72,
-    "level" : 57
   }, {
     "id" : 10221720,
     "name" : "がえあの動画工房",
@@ -5110,12 +5264,33 @@
     "fans" : 72,
     "level" : 10
   }, {
+    "id" : 10007080,
+    "name" : "うさぱん",
+    "official" : false,
+    "status" : 10,
+    "fans" : 72,
+    "level" : 57
+  }, {
     "id" : 10141702,
     "name" : "ゲーム実況者キマグレオン",
     "official" : false,
     "status" : 10,
     "fans" : 72,
     "level" : 59
+  }, {
+    "id" : 10258537,
+    "name" : "スーパーオルソン人",
+    "official" : false,
+    "status" : 10,
+    "fans" : 72,
+    "level" : 13
+  }, {
+    "id" : 10006179,
+    "name" : "猫。田中",
+    "official" : false,
+    "status" : 10,
+    "fans" : 72,
+    "level" : 55
   }, {
     "id" : 10014319,
     "name" : "ezoyuu&フノミヤ",
@@ -5150,7 +5325,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 71,
-    "level" : 53
+    "level" : 54
   }, {
     "id" : 10097856,
     "name" : "ロコちゃん",
@@ -5180,19 +5355,19 @@
     "fans" : 71,
     "level" : 49
   }, {
-    "id" : 10258537,
-    "name" : "スーパーオルソン人",
-    "official" : false,
-    "status" : 10,
-    "fans" : 71,
-    "level" : 12
-  }, {
     "id" : 10224150,
     "name" : "ナハト鳩",
     "official" : false,
     "status" : 10,
     "fans" : 71,
-    "level" : 34
+    "level" : 35
+  }, {
+    "id" : 10005142,
+    "name" : "白米",
+    "official" : false,
+    "status" : 10,
+    "fans" : 71,
+    "level" : 69
   }, {
     "id" : 10023391,
     "name" : "ben",
@@ -5201,26 +5376,19 @@
     "fans" : 70,
     "level" : 72
   }, {
-    "id" : 10000391,
-    "name" : "たーしゃ@VER.UP",
-    "official" : false,
-    "status" : 10,
-    "fans" : 70,
-    "level" : 67
-  }, {
-    "id" : 10017711,
-    "name" : "seri.ごきたま",
-    "official" : false,
-    "status" : 10,
-    "fans" : 70,
-    "level" : 62
-  }, {
     "id" : 10100317,
     "name" : "てんくん【DvS】",
     "official" : false,
     "status" : 10,
     "fans" : 70,
     "level" : 22
+  }, {
+    "id" : 10000391,
+    "name" : "たーしゃ@VER.UP",
+    "official" : false,
+    "status" : 10,
+    "fans" : 70,
+    "level" : 67
   }, {
     "id" : 10178247,
     "name" : "Examyyyyyy",
@@ -5249,6 +5417,20 @@
     "status" : 10,
     "fans" : 70,
     "level" : 50
+  }, {
+    "id" : 10017711,
+    "name" : "seri.ごきたま",
+    "official" : false,
+    "status" : 10,
+    "fans" : 70,
+    "level" : 62
+  }, {
+    "id" : 10124199,
+    "name" : "はしこちゃん",
+    "official" : false,
+    "status" : 10,
+    "fans" : 70,
+    "level" : 40
   }, {
     "id" : 10039935,
     "name" : "じんたん🦍",
@@ -5299,12 +5481,19 @@
     "fans" : 70,
     "level" : 66
   }, {
-    "id" : 10004359,
-    "name" : "Hirogames",
+    "id" : 10001930,
+    "name" : "seso",
+    "official" : false,
+    "status" : 10,
+    "fans" : 70,
+    "level" : 72
+  }, {
+    "id" : 10065760,
+    "name" : "ゆーだい@HIHITI-GAMERS",
     "official" : false,
     "status" : 10,
     "fans" : 69,
-    "level" : 49
+    "level" : 68
   }, {
     "id" : 10005893,
     "name" : "Matty",
@@ -5312,6 +5501,13 @@
     "status" : 10,
     "fans" : 69,
     "level" : 54
+  }, {
+    "id" : 10004359,
+    "name" : "Hirogames",
+    "official" : false,
+    "status" : 10,
+    "fans" : 69,
+    "level" : 49
   }, {
     "id" : 10003336,
     "name" : "NIBI",
@@ -5327,12 +5523,12 @@
     "fans" : 69,
     "level" : 74
   }, {
-    "id" : 10065760,
-    "name" : "ゆーだい@HIHITI-GAMERS",
+    "id" : 10099689,
+    "name" : "遺跡の覇者",
     "official" : false,
     "status" : 10,
     "fans" : 69,
-    "level" : 68
+    "level" : 64
   }, {
     "id" : 10016041,
     "name" : "ひろきん1",
@@ -5362,13 +5558,6 @@
     "fans" : 68,
     "level" : 65
   }, {
-    "id" : 10023729,
-    "name" : "Ny Games",
-    "official" : false,
-    "status" : 10,
-    "fans" : 68,
-    "level" : 63
-  }, {
     "id" : 10257187,
     "name" : "PayPal",
     "official" : false,
@@ -5383,12 +5572,26 @@
     "fans" : 68,
     "level" : 58
   }, {
+    "id" : 10023729,
+    "name" : "Ny Games",
+    "official" : false,
+    "status" : 10,
+    "fans" : 68,
+    "level" : 63
+  }, {
     "id" : 10002053,
     "name" : "BK やみーOwO",
     "official" : false,
     "status" : 10,
     "fans" : 68,
     "level" : 57
+  }, {
+    "id" : 10004489,
+    "name" : "あまいろ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 68,
+    "level" : 74
   }, {
     "id" : 10003781,
     "name" : "猫愛《ねあ》",
@@ -5425,19 +5628,19 @@
     "fans" : 68,
     "level" : 72
   }, {
+    "id" : 10257235,
+    "name" : "かすら",
+    "official" : false,
+    "status" : 10,
+    "fans" : 68,
+    "level" : 17
+  }, {
     "id" : 10041893,
     "name" : "がんじん",
     "official" : false,
     "status" : 10,
     "fans" : 68,
     "level" : 64
-  }, {
-    "id" : 10124199,
-    "name" : "はしこちゃん",
-    "official" : false,
-    "status" : 10,
-    "fans" : 68,
-    "level" : 40
   }, {
     "id" : 10033583,
     "name" : "かざむ",
@@ -5473,20 +5676,6 @@
     "status" : 10,
     "fans" : 67,
     "level" : 35
-  }, {
-    "id" : 10004489,
-    "name" : "あまいろ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 67,
-    "level" : 74
-  }, {
-    "id" : 10257235,
-    "name" : "かすら",
-    "official" : false,
-    "status" : 10,
-    "fans" : 67,
-    "level" : 17
   }, {
     "id" : 10004205,
     "name" : "ふ皇子(ふみこ)",
@@ -5537,13 +5726,6 @@
     "fans" : 67,
     "level" : 54
   }, {
-    "id" : 10020299,
-    "name" : "はいちゃんら",
-    "official" : false,
-    "status" : 10,
-    "fans" : 67,
-    "level" : 45
-  }, {
     "id" : 10044400,
     "name" : "ガワタ",
     "official" : false,
@@ -5551,12 +5733,26 @@
     "fans" : 67,
     "level" : 7
   }, {
+    "id" : 10004899,
+    "name" : "はかまる*",
+    "official" : false,
+    "status" : 10,
+    "fans" : 67,
+    "level" : 59
+  }, {
     "id" : 10006328,
     "name" : "Rua.",
     "official" : false,
     "status" : 10,
     "fans" : 66,
     "level" : 67
+  }, {
+    "id" : 10164609,
+    "name" : "うい90",
+    "official" : false,
+    "status" : 10,
+    "fans" : 66,
+    "level" : 63
   }, {
     "id" : 10081867,
     "name" : "青い背景　青氏　沢山の民",
@@ -5586,12 +5782,19 @@
     "fans" : 65,
     "level" : 62
   }, {
-    "id" : 10058357,
-    "name" : "satomin",
+    "id" : 10007903,
+    "name" : "sa1kqwa/さいかわ",
     "official" : false,
     "status" : 10,
     "fans" : 65,
-    "level" : 69
+    "level" : 55
+  }, {
+    "id" : 10013066,
+    "name" : "yu pan",
+    "official" : false,
+    "status" : 10,
+    "fans" : 65,
+    "level" : 47
   }, {
     "id" : 10017938,
     "name" : "Jitter",
@@ -5607,19 +5810,12 @@
     "fans" : 65,
     "level" : 51
   }, {
-    "id" : 10013066,
-    "name" : "yu pan",
+    "id" : 10058357,
+    "name" : "satomin",
     "official" : false,
     "status" : 10,
     "fans" : 65,
-    "level" : 47
-  }, {
-    "id" : 10164609,
-    "name" : "うい90",
-    "official" : false,
-    "status" : 10,
-    "fans" : 65,
-    "level" : 63
+    "level" : 69
   }, {
     "id" : 10028333,
     "name" : "だーくねす・めあ",
@@ -5647,7 +5843,7 @@
     "official" : false,
     "status" : 10,
     "fans" : 65,
-    "level" : 18
+    "level" : 19
   }, {
     "id" : 10004644,
     "name" : "Genius やざわ",
@@ -5691,19 +5887,19 @@
     "fans" : 64,
     "level" : 70
   }, {
+    "id" : 10001462,
+    "name" : "SenRI",
+    "official" : false,
+    "status" : 10,
+    "fans" : 64,
+    "level" : 50
+  }, {
     "id" : 10056884,
     "name" : "s.kuro【コちゃ民】",
     "official" : false,
     "status" : 10,
     "fans" : 64,
     "level" : 58
-  }, {
-    "id" : 10007903,
-    "name" : "sa1kqwa/さいかわ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 64,
-    "level" : 55
   }, {
     "id" : 10195039,
     "name" : "Lee*〖DvS〗",
@@ -5761,13 +5957,6 @@
     "fans" : 64,
     "level" : 66
   }, {
-    "id" : 10001073,
-    "name" : "Lars・Aoki",
-    "official" : false,
-    "status" : 10,
-    "fans" : 63,
-    "level" : 80
-  }, {
     "id" : 10012605,
     "name" : "もちjp",
     "official" : false,
@@ -5781,6 +5970,13 @@
     "status" : 10,
     "fans" : 63,
     "level" : 48
+  }, {
+    "id" : 10001073,
+    "name" : "Lars・Aoki",
+    "official" : false,
+    "status" : 10,
+    "fans" : 63,
+    "level" : 80
   }, {
     "id" : 10038195,
     "name" : "GoldenTreeSword",
@@ -5887,6 +6083,13 @@
     "fans" : 62,
     "level" : 62
   }, {
+    "id" : 10122185,
+    "name" : "可愛い先生大好き、浮気しまくり",
+    "official" : false,
+    "status" : 10,
+    "fans" : 62,
+    "level" : 50
+  }, {
     "id" : 10012854,
     "name" : "さぁたん",
     "official" : false,
@@ -5943,19 +6146,19 @@
     "fans" : 62,
     "level" : 42
   }, {
-    "id" : 10004798,
-    "name" : "たらちゃん",
-    "official" : false,
-    "status" : 10,
-    "fans" : 62,
-    "level" : 57
-  }, {
     "id" : 10114796,
     "name" : "ゆうた15",
     "official" : false,
     "status" : 10,
     "fans" : 62,
     "level" : 44
+  }, {
+    "id" : 10004798,
+    "name" : "たらちゃん",
+    "official" : false,
+    "status" : 10,
+    "fans" : 62,
+    "level" : 57
   }, {
     "id" : 10048347,
     "name" : "れん坊",
@@ -6097,13 +6300,6 @@
     "fans" : 60,
     "level" : 69
   }, {
-    "id" : 10034787,
-    "name" : "ずるむけ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 60,
-    "level" : 49
-  }, {
     "id" : 10004474,
     "name" : "りっかいずさぶ",
     "official" : false,
@@ -6125,15 +6321,15 @@
     "fans" : 60,
     "level" : 57
   }, {
-    "id" : 10219118,
-    "name" : "PJM.ショウタFN",
+    "id" : 10171038,
+    "name" : "FN Jiro",
     "official" : false,
     "status" : 10,
     "fans" : 59,
     "level" : 4
   }, {
-    "id" : 10171038,
-    "name" : "FN Jiro",
+    "id" : 10219118,
+    "name" : "PJM.ショウタFN",
     "official" : false,
     "status" : 10,
     "fans" : 59,
@@ -6145,6 +6341,13 @@
     "status" : 10,
     "fans" : 59,
     "level" : 41
+  }, {
+    "id" : 10253720,
+    "name" : "おじゃ一家",
+    "official" : false,
+    "status" : 10,
+    "fans" : 59,
+    "level" : 42
   }, {
     "id" : 10047527,
     "name" : "かこす",
@@ -6159,6 +6362,13 @@
     "status" : 10,
     "fans" : 59,
     "level" : 67
+  }, {
+    "id" : 10034787,
+    "name" : "ずるむけ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 59,
+    "level" : 49
   }, {
     "id" : 10063443,
     "name" : "FRN・しじみん",
@@ -6187,6 +6397,13 @@
     "status" : 10,
     "fans" : 59,
     "level" : 63
+  }, {
+    "id" : 10005742,
+    "name" : "明日見あすか",
+    "official" : false,
+    "status" : 10,
+    "fans" : 59,
+    "level" : 71
   }, {
     "id" : 10001161,
     "name" : "Perry",
@@ -6230,13 +6447,6 @@
     "fans" : 58,
     "level" : 81
   }, {
-    "id" : 10014901,
-    "name" : "のっぴー",
-    "official" : false,
-    "status" : 10,
-    "fans" : 58,
-    "level" : 57
-  }, {
     "id" : 10003772,
     "name" : "Shront（しゅろんと）",
     "official" : false,
@@ -6250,6 +6460,13 @@
     "status" : 10,
     "fans" : 58,
     "level" : 62
+  }, {
+    "id" : 10014901,
+    "name" : "のっぴー",
+    "official" : false,
+    "status" : 10,
+    "fans" : 58,
+    "level" : 57
   }, {
     "id" : 10022319,
     "name" : "イケボ配信者しろっぷ",
@@ -6286,6 +6503,20 @@
     "fans" : 58,
     "level" : 48
   }, {
+    "id" : 10004732,
+    "name" : "norimoto",
+    "official" : false,
+    "status" : 10,
+    "fans" : 58,
+    "level" : 65
+  }, {
+    "id" : 10095245,
+    "name" : "sakura0319BT民",
+    "official" : false,
+    "status" : 10,
+    "fans" : 57,
+    "level" : 58
+  }, {
     "id" : 10105460,
     "name" : "パウコウ.CH",
     "official" : false,
@@ -6306,13 +6537,6 @@
     "status" : 10,
     "fans" : 57,
     "level" : 67
-  }, {
-    "id" : 10095245,
-    "name" : "sakura0319BT民",
-    "official" : false,
-    "status" : 10,
-    "fans" : 57,
-    "level" : 58
   }, {
     "id" : 10006869,
     "name" : "じゅりあ",
@@ -6363,6 +6587,13 @@
     "fans" : 57,
     "level" : 23
   }, {
+    "id" : 10005725,
+    "name" : "らんまる",
+    "official" : false,
+    "status" : 10,
+    "fans" : 57,
+    "level" : 31
+  }, {
     "id" : 10029971,
     "name" : "QLyzA",
     "official" : false,
@@ -6412,13 +6643,6 @@
     "fans" : 56,
     "level" : 57
   }, {
-    "id" : 10253720,
-    "name" : "おじゃ一家",
-    "official" : false,
-    "status" : 10,
-    "fans" : 56,
-    "level" : 42
-  }, {
     "id" : 10047632,
     "name" : "またの名を鈴木",
     "official" : false,
@@ -6454,13 +6678,6 @@
     "fans" : 56,
     "level" : 60
   }, {
-    "id" : 10109109,
-    "name" : "macyakari_kun",
-    "official" : false,
-    "status" : 10,
-    "fans" : 55,
-    "level" : 63
-  }, {
     "id" : 10003932,
     "name" : "PEI(株)@ミック",
     "official" : false,
@@ -6473,7 +6690,14 @@
     "official" : false,
     "status" : 10,
     "fans" : 55,
-    "level" : 72
+    "level" : 73
+  }, {
+    "id" : 10109109,
+    "name" : "macyakari_kun",
+    "official" : false,
+    "status" : 10,
+    "fans" : 55,
+    "level" : 63
   }, {
     "id" : 10168979,
     "name" : "あむちゃだぅ!!",
@@ -6488,6 +6712,13 @@
     "status" : 10,
     "fans" : 55,
     "level" : 66
+  }, {
+    "id" : 10257060,
+    "name" : "へもぐろびんβ",
+    "official" : false,
+    "status" : 10,
+    "fans" : 55,
+    "level" : 43
   }, {
     "id" : 10028929,
     "name" : "衛生兵の足の薬指打撲",
@@ -6524,13 +6755,6 @@
     "fans" : 54,
     "level" : 59
   }, {
-    "id" : 10257060,
-    "name" : "へもぐろびんβ",
-    "official" : false,
-    "status" : 10,
-    "fans" : 54,
-    "level" : 43
-  }, {
     "id" : 10004355,
     "name" : "ぺこ",
     "official" : false,
@@ -6544,6 +6768,13 @@
     "status" : 10,
     "fans" : 54,
     "level" : 75
+  }, {
+    "id" : 10104911,
+    "name" : "ミルク(じょじファミ/管理垢)",
+    "official" : false,
+    "status" : 10,
+    "fans" : 54,
+    "level" : 59
   }, {
     "id" : 10019424,
     "name" : "ガチメガネちゃんねる",
@@ -6579,6 +6810,20 @@
     "status" : 10,
     "fans" : 54,
     "level" : 59
+  }, {
+    "id" : 10001821,
+    "name" : "AphroditeXD",
+    "official" : false,
+    "status" : 10,
+    "fans" : 54,
+    "level" : 28
+  }, {
+    "id" : 10004274,
+    "name" : "Noire",
+    "official" : false,
+    "status" : 10,
+    "fans" : 54,
+    "level" : 61
   }, {
     "id" : 10003705,
     "name" : "Beelphegor",
@@ -6664,13 +6909,6 @@
     "fans" : 52,
     "level" : 40
   }, {
-    "id" : 10006286,
-    "name" : "AmeKen3",
-    "official" : false,
-    "status" : 10,
-    "fans" : 52,
-    "level" : 58
-  }, {
     "id" : 10019893,
     "name" : "Goodbye砂糖",
     "official" : false,
@@ -6684,6 +6922,13 @@
     "status" : 10,
     "fans" : 52,
     "level" : 30
+  }, {
+    "id" : 10006286,
+    "name" : "AmeKen3",
+    "official" : false,
+    "status" : 10,
+    "fans" : 52,
+    "level" : 58
   }, {
     "id" : 10107846,
     "name" : "ジェットP",
@@ -6755,13 +7000,6 @@
     "fans" : 52,
     "level" : 76
   }, {
-    "id" : 10104911,
-    "name" : "ミルク(じょじファミ/管理垢)",
-    "official" : false,
-    "status" : 10,
-    "fans" : 52,
-    "level" : 59
-  }, {
     "id" : 10030987,
     "name" : "みちゃそ*",
     "official" : false,
@@ -6776,19 +7014,19 @@
     "fans" : 52,
     "level" : 22
   }, {
-    "id" : 10043384,
-    "name" : "緑の狸",
-    "official" : false,
-    "status" : 10,
-    "fans" : 52,
-    "level" : 47
-  }, {
     "id" : 10082111,
     "name" : "クソ雑魚のジャック",
     "official" : false,
     "status" : 10,
     "fans" : 52,
     "level" : 74
+  }, {
+    "id" : 10043384,
+    "name" : "緑の狸",
+    "official" : false,
+    "status" : 10,
+    "fans" : 52,
+    "level" : 47
   }, {
     "id" : 10109150,
     "name" : "ばななくん@37位",
@@ -6825,6 +7063,27 @@
     "fans" : 52,
     "level" : 47
   }, {
+    "id" : 10000320,
+    "name" : "KLIEN　Im_AVI",
+    "official" : false,
+    "status" : 10,
+    "fans" : 52,
+    "level" : 37
+  }, {
+    "id" : 10000585,
+    "name" : "KLIEN/takeruchi",
+    "official" : false,
+    "status" : 10,
+    "fans" : 52,
+    "level" : 41
+  }, {
+    "id" : 10004081,
+    "name" : "murasame",
+    "official" : false,
+    "status" : 10,
+    "fans" : 52,
+    "level" : 55
+  }, {
     "id" : 10091205,
     "name" : "hiibozu（ヒーボズ）",
     "official" : false,
@@ -6853,13 +7112,6 @@
     "fans" : 51,
     "level" : 33
   }, {
-    "id" : 10005992,
-    "name" : "くまくま",
-    "official" : false,
-    "status" : 10,
-    "fans" : 51,
-    "level" : 58
-  }, {
     "id" : 10021872,
     "name" : "どぐそる",
     "official" : false,
@@ -6887,6 +7139,27 @@
     "status" : 10,
     "fans" : 51,
     "level" : 41
+  }, {
+    "id" : 10002827,
+    "name" : "ふすさんま",
+    "official" : false,
+    "status" : 10,
+    "fans" : 51,
+    "level" : 73
+  }, {
+    "id" : 10005992,
+    "name" : "くまくま",
+    "official" : false,
+    "status" : 10,
+    "fans" : 51,
+    "level" : 58
+  }, {
+    "id" : 10082765,
+    "name" : "yuuna",
+    "official" : false,
+    "status" : 10,
+    "fans" : 50,
+    "level" : 37
   }, {
     "id" : 10006321,
     "name" : "ぼっち系ストリーマーiconic",
