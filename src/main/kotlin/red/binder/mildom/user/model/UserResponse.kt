@@ -4,5 +4,7 @@ data class UserResponse (
     var id: Long,
     var name: String,
     var official: Boolean,
-    var fans: Long
+    var status: Int,
+    var fans: Long,
+    var level: Long
 )

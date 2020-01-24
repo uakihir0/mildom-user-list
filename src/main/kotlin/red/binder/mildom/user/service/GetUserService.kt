@@ -6,23 +6,77 @@ import red.binder.mildom.user.model.UserListResponse
 import red.binder.mildom.user.model.UserResponse
 import java.util.concurrent.CountDownLatch
 import java.util.concurrent.Executors
-import java.util.concurrent.Future
-import java.util.concurrent.ThreadPoolExecutor
 import java.util.concurrent.atomic.AtomicLong
 
 @Component
 class GetUserService(
-    private val mildomClient: MildomClient
+        private val mildomClient: MildomClient
 ) {
 
     /**
      * ユーザーの一覧を取得
      */
     fun getUserList(): UserListResponse {
-        val users = mutableListOf<UserResponse>()
+        val users = mutableMapOf<Long, UserResponse>()
+        getUserFromSearchAPI(users)
+        getUserFromProfileAPI(users)
+
+        // フォロワーの数で降順
+        return UserListResponse(users.values
+                .filter { it.fans >= 50 }
+                .filter { it.status == 10 }
+                .sortedByDescending { it.fans })
+    }
+
+    /**
+     * SearchAPI から雑にユーザーを取得
+     */
+    fun getUserFromSearchAPI(users: MutableMap<Long, UserResponse>) {
+        val ranges: List<CharRange> = listOf(
+                'a'..'z', '0'..'9', 'あ'..'ん', 'ア'..'ン')
+
+        for (range in ranges) {
+            range.forEach { ch ->
+                println(ch.toString())
+
+                // 検索して雑に様々なユーザーを取得
+                val result = mildomClient.getUserSearch(
+                        query = ch.toString(),
+                        type = 1L,
+                        limit = 1000L,
+                        guestId = "guest",
+                        platform = "web",
+                        lang = "ja"
+                )
+
+                // オブジェクト情報を取得
+                val userList = result.execute().body()?.body?.users
+                if (userList != null) {
+
+                    for (userInfo in userList) {
+                        val i = userInfo.userId
+                        users[i] = UserResponse(
+                                id = userInfo.userId,
+                                name = userInfo.name,
+                                fans = userInfo.fans ?: 0,
+                                level = userInfo.level ?: 0,
+                                status = userInfo.status,
+                                official = userInfo.isOfficial()
+                        )
+                    }
+                }
+            }
+        }
+    }
+
+
+    /**
+     * ProfileAPI からユーザーを取得
+     */
+    fun getUserFromProfileAPI(users: MutableMap<Long, UserResponse>) {
 
         // スレッドを複数立てて一気に取得
-        val threadPool = Executors.newCachedThreadPool() as ThreadPoolExecutor
+        val threadPool = Executors.newCachedThreadPool()
 
         // 初期インデックス
         val index = AtomicLong(10000000L)
@@ -41,45 +95,42 @@ class GetUserService(
 
             repeat(batch) {
                 threadPool.submit {
-                    val i = index.incrementAndGet()
-                    println("get: $i")
+
+                    // まだ存在しないユーザー取得
+                    var i = index.incrementAndGet()
+                    while (users.containsKey(i)) {
+                        i = index.incrementAndGet()
+                    }
+
+                    println("index $i")
 
                     // Mildom からユーザー情報を取得
-                    val user = mildomClient.getUserProfile(
-                        userId = i,
-                        guestId = "guest",
-                        platform = "web",
-                        lang = "ja"
+                    val result = mildomClient.getUserProfile(
+                            userId = i,
+                            guestId = "guest",
+                            platform = "web",
+                            lang = "ja"
                     )
 
                     // オブジェクト情報を取得
-                    val userInfo = user.execute().body()?.body?.userInfo
-
-
+                    val userInfo = result.execute().body()?.body?.userInfo
                     if (userInfo != null) {
                         error.set(0L)
+                        users[i] = UserResponse(
+                                id = userInfo.userId,
+                                name = userInfo.name,
+                                fans = userInfo.fans ?: 0,
+                                level = userInfo.level ?: 0,
+                                status = userInfo.status,
+                                official = userInfo.isOfficial()
+                        )
 
-                        // 問題ないアカウントの場合のみ
-                        if (userInfo.status == 10 &&
-                            (userInfo.fans ?: 0) >= 50) {
-
-                            users.add(
-                                UserResponse(
-                                    id = userInfo.userId,
-                                    name = userInfo.name,
-                                    fans = userInfo.fans ?: 0,
-                                    official = userInfo.isOfficial()
-                                )
-                            )
-                        }
                     } else {
                         val e = error.incrementAndGet()
                         println("error $e index $i")
 
-                        // 100 回以上連続
+                        // 100 回以上連続の場合は終点
                         if (e >= 100) {
-
-                            // データが無い場合は終点
                             findEnds = true
                         }
                     }
@@ -92,11 +143,5 @@ class GetUserService(
             // リクエストを待つ
             latch.await()
         }
-
-        // フォロワーの数で降順ソート
-        users.sortBy { it.fans }
-        users.reverse()
-
-        return UserListResponse(users)
     }
 }

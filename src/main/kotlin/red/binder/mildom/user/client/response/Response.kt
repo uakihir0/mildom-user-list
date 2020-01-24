@@ -1,5 +1,5 @@
 package red.binder.mildom.user.client.response
 
-data class Response<UserInfo>(
-    var body: UserInfo?
+data class Response<T>(
+        var body: T?
 )

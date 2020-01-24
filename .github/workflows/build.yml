@@ -31,5 +31,4 @@ jobs:
           git config --global user.name "Akihiro Urushihara"
           git add --all
           git commit -m "Refreshed by GitHub Actions CI (SHA ${GITHUB_SHA})"
-          git remote add origin https://${GH_TOKEN}@github.com/uakihir0/mildom-user-list.git
           git push -f origin master
