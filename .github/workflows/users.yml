@@ -21,14 +21,14 @@ jobs:
           java-version: 1.8
 
       - name: Get users list
-        run: ./gradlew test
+        run: ./gradlew test --tests "MildomUserTest.testGetAllUserData" -i
 
       - name: Commit files
         run: |
           git config --local user.email "bot.a.urusihara@gmail.com"
           git config --local user.name "(BOT) Akihiro Urushihara"
           git add --all
-          git commit -m "Refreshed by GitHub Actions CI (SHA ${GITHUB_SHA})"
+          git commit -m "GetAllUserData by CI (SHA ${GITHUB_SHA})"
 
       - name: Push changes
         uses: ad-m/github-push-action@master

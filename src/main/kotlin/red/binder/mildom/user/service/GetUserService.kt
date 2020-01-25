@@ -29,42 +29,61 @@ class GetUserService(
     }
 
     /**
+     * ライブユーザー一覧を取得
+     */
+    fun getLiveUserList(): UserListResponse {
+        val users = mutableMapOf<Long, UserResponse>()
+        search("*", users)
+
+        // フォロワーの数で降順
+        return UserListResponse(users.values
+                .filter { it.fans >= 50 }
+                .filter { it.status == 10 }
+                .sortedByDescending { it.fans })
+    }
+
+    /**
      * SearchAPI から雑にユーザーを取得
      */
     fun getUserFromSearchAPI(users: MutableMap<Long, UserResponse>) {
         val ranges: List<CharRange> = listOf(
                 'a'..'z', '0'..'9', 'あ'..'ん', 'ア'..'ン')
 
+        search("*", users)
         for (range in ranges) {
             range.forEach { ch ->
-                println(ch.toString())
+                search(ch.toString(), users)
+            }
+        }
+    }
 
-                // 検索して雑に様々なユーザーを取得
-                val result = mildomClient.getUserSearch(
-                        query = ch.toString(),
-                        type = 1L,
-                        limit = 1000L,
-                        guestId = "guest",
-                        platform = "web",
-                        lang = "ja"
+    fun search(str: String, users: MutableMap<Long, UserResponse>) {
+
+        // 検索して雑に様々なユーザーを取得
+        val result = mildomClient.getUserSearch(
+                query = str,
+                type = 1L,
+                limit = 1000L,
+                guestId = "guest",
+                platform = "web",
+                lang = "ja"
+        )
+
+        // オブジェクト情報を取得
+        val userList = result.execute().body()?.body?.users
+        if (userList != null) {
+
+            for (userInfo in userList) {
+                val i = userInfo.userId
+                users[i] = UserResponse(
+                        id = userInfo.userId,
+                        name = userInfo.name,
+                        status = userInfo.status,
+                        fans = userInfo.fans ?: 0,
+                        level = userInfo.level ?: 0,
+                        viewer = userInfo.getViewers(),
+                        official = userInfo.isOfficial()
                 )
-
-                // オブジェクト情報を取得
-                val userList = result.execute().body()?.body?.users
-                if (userList != null) {
-
-                    for (userInfo in userList) {
-                        val i = userInfo.userId
-                        users[i] = UserResponse(
-                                id = userInfo.userId,
-                                name = userInfo.name,
-                                fans = userInfo.fans ?: 0,
-                                level = userInfo.level ?: 0,
-                                status = userInfo.status,
-                                official = userInfo.isOfficial()
-                        )
-                    }
-                }
             }
         }
     }
@@ -114,9 +133,10 @@ class GetUserService(
                         users[i] = UserResponse(
                                 id = userInfo.userId,
                                 name = userInfo.name,
+                                status = userInfo.status,
                                 fans = userInfo.fans ?: 0,
                                 level = userInfo.level ?: 0,
-                                status = userInfo.status,
+                                viewer = userInfo.getViewers(),
                                 official = userInfo.isOfficial()
                         )
 

@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <HTML>
 <HEAD>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="Description" content="Mildom Ranking">
     <title>Mildom User List</title>
 
@@ -16,34 +17,38 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
 <BODY>
+<div class="container">
     <h3>Mildom User List</h3>
     <p>フォロワーが50人以上のユーザー一覧 (一日毎に更新)</p>
+    <p>視聴者数は直近の配信実績から割り出した目安の数値です</p>
     <div id="users">
-    <input class="search form-control" placeholder="検索" />
-    <table class="table">
-        <thead>
-        <tr>
-            <th class="sort" data-sort="id">ID</th>
-            <th class="sort" data-sort="name">名前</th>
-            <th class="sort" data-sort="fans">フォロワー数</th>
-            <th class="sort" data-sort="level">レベル</th>
-            <th class="sort" data-sort="official">公式</th>
-        </tr>
-        </thead>
-        <tbody class="list">
-        <tr>
-            <td class="id"></td>
-            <td class="name"></td>
-            <td class="fans"></td>
-            <td class="level"></td>
-            <td class="official"></td>
-        </tr>
-        </tbody>
-    </table>
+        <input class="search form-control" placeholder="検索" />
+        <table class="table">
+            <thead>
+            <tr>
+                <th class="sort" data-sort="id">ID</th>
+                <th class="sort" data-sort="name">名前</th>
+                <th class="sort" data-sort="fans">フォロワー数</th>
+                <th class="sort" data-sort="level">LV</th>
+                <th class="sort" data-sort="viewer">視聴者数</th>
+                <th class="sort" data-sort="official">公式</th>
+            </tr>
+            </thead>
+            <tbody class="list">
+            <tr>
+                <td class="id"></td>
+                <td class="name"></td>
+                <td class="fans"></td>
+                <td class="level"></td>
+                <td class="official"></td>
+            </tr>
+            </tbody>
+        </table>
     </div>
+</div>
     <script>
         var options = {
-            valueNames: ['id', 'name', 'fans', 'level', 'official']
+            valueNames: ['id', 'name', 'fans', 'level', 'viewer', 'official']
         };
         var userList = new List('users', options, mildom_users.users);
     </script>

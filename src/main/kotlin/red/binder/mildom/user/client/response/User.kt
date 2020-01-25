@@ -15,8 +15,14 @@ data class User(
         @SerializedName("fans")
         var fans: Long?,
 
+        @SerializedName("viewers")
+        var viewers: Long?,
+
         @SerializedName("level")
         var level: Long?,
+
+        @SerializedName("live_type")
+        var liveType: Int?,
 
         /** 公認名 */
         @SerializedName("certification_intro")
@@ -26,5 +32,11 @@ data class User(
     /** 公認配信者かどうか？ */
     fun isOfficial(): Boolean {
         return (certificationIntro != null)
+    }
+
+    /** 視聴者を取得 */
+    fun getViewers(): Long {
+        if (liveType == null) return 0
+        return viewers ?: 0
     }
 }

@@ -6,5 +6,6 @@ data class UserResponse (
     var official: Boolean,
     var status: Int,
     var fans: Long,
-    var level: Long
+    var level: Long,
+    var viewer: Long
 )
