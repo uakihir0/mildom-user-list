@@ -33,7 +33,7 @@ class GetUserService(
      */
     fun getLiveUserList(): UserListResponse {
         val users = mutableMapOf<Long, UserResponse>()
-        search("*", users)
+        getLiveUserFromLiveDetailAPI(users)
 
         // フォロワーの数で降順
         return UserListResponse(users.values
@@ -157,6 +157,41 @@ class GetUserService(
 
             // リクエストを待つ
             latch.await()
+        }
+    }
+
+    /**
+     * LiveDetailAPI より現在ライブしているユーザーを全取得
+     */
+    fun getLiveUserFromLiveDetailAPI(users: MutableMap<Long, UserResponse>) {
+
+        // ライブユーザーを全部取得
+        val result = mildomClient.getLiveUsers(
+                key = "all_game",
+                tag = "all",
+                page = 1L,
+                limit = 1000L,
+                guestId = "guest",
+                platform = "web",
+                lang = "ja"
+        )
+
+        // オブジェクト情報を取得
+        val userList = result.execute().body()?.body?.models
+        if (userList != null) {
+
+            for (userInfo in userList) {
+                val i = userInfo.userId
+                users[i] = UserResponse(
+                        id = userInfo.userId,
+                        name = userInfo.name,
+                        status = userInfo.status,
+                        fans = userInfo.fans ?: 0,
+                        level = userInfo.level ?: 0,
+                        viewer = userInfo.getViewers(),
+                        official = userInfo.isOfficial()
+                )
+            }
         }
     }
 }

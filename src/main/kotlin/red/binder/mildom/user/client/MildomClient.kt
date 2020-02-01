@@ -1,5 +1,6 @@
 package red.binder.mildom.user.client
 
+import red.binder.mildom.user.client.response.LiveList
 import red.binder.mildom.user.client.response.Response
 import red.binder.mildom.user.client.response.UserInfo
 import red.binder.mildom.user.client.response.UserList
@@ -36,4 +37,20 @@ interface MildomClient {
             @Query("__platform") platform: String,
             @Query("__la") lang: String
     ): Call<Response<UserList>>
+
+    /**
+     * ライブの検索
+     *
+     * https://cloudac.mildom.com/nonolive/gappserv/channel/detailList?channel_key=all_game&channel_tag=all&page=1&limit=1000&__guest_id=pc&__platform=web&__la=ja
+     */
+    @GET("nonolive/gappserv/channel/detailList")
+    fun getLiveUsers(
+            @Query("channel_key") key: String,
+            @Query("channel_tag") tag: String,
+            @Query("page") page: Long,
+            @Query("limit") limit: Long,
+            @Query("__guest_id") guestId: String,
+            @Query("__platform") platform: String,
+            @Query("__la") lang: String
+    ): Call<Response<LiveList>>
 }
