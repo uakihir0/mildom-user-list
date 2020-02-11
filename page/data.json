@@ -61,7 +61,7 @@
       "status": 10,
       "fans": 16253,
       "level": 46,
-      "viewer": 343
+      "viewer": 351
     },
     {
       "id": 10103523,
@@ -403,7 +403,7 @@
       "status": 10,
       "fans": 2550,
       "level": 90,
-      "viewer": 424
+      "viewer": 420
     },
     {
       "id": 10205705,
@@ -520,7 +520,7 @@
       "status": 10,
       "fans": 1615,
       "level": 73,
-      "viewer": 48
+      "viewer": 46
     },
     {
       "id": 100003,
@@ -547,7 +547,7 @@
       "status": 10,
       "fans": 1486,
       "level": 63,
-      "viewer": 69
+      "viewer": 70
     },
     {
       "id": 10008641,
@@ -628,7 +628,7 @@
       "status": 10,
       "fans": 1294,
       "level": 62,
-      "viewer": 318
+      "viewer": 302
     },
     {
       "id": 10008249,
@@ -745,7 +745,7 @@
       "status": 10,
       "fans": 999,
       "level": 96,
-      "viewer": 98
+      "viewer": 99
     },
     {
       "id": 10011142,
@@ -754,7 +754,7 @@
       "status": 10,
       "fans": 999,
       "level": 78,
-      "viewer": 5
+      "viewer": 4
     },
     {
       "id": 10156819,
@@ -808,7 +808,7 @@
       "status": 10,
       "fans": 909,
       "level": 44,
-      "viewer": 72
+      "viewer": 73
     },
     {
       "id": 10088975,
@@ -817,7 +817,7 @@
       "status": 10,
       "fans": 907,
       "level": 70,
-      "viewer": 56
+      "viewer": 54
     },
     {
       "id": 10256795,
@@ -853,7 +853,7 @@
       "status": 10,
       "fans": 851,
       "level": 88,
-      "viewer": 26
+      "viewer": 27
     },
     {
       "id": 10001633,
@@ -889,7 +889,7 @@
       "status": 10,
       "fans": 821,
       "level": 74,
-      "viewer": 40
+      "viewer": 42
     },
     {
       "id": 10011483,
@@ -1078,7 +1078,7 @@
       "status": 10,
       "fans": 666,
       "level": 71,
-      "viewer": 30
+      "viewer": 28
     },
     {
       "id": 10041511,
@@ -1303,7 +1303,7 @@
       "status": 10,
       "fans": 562,
       "level": 73,
-      "viewer": 16
+      "viewer": 15
     },
     {
       "id": 10085897,
@@ -1348,7 +1348,7 @@
       "status": 10,
       "fans": 536,
       "level": 68,
-      "viewer": 16
+      "viewer": 15
     },
     {
       "id": 10033243,
@@ -1456,7 +1456,7 @@
       "status": 10,
       "fans": 503,
       "level": 6,
-      "viewer": 195
+      "viewer": 242
     },
     {
       "id": 10028868,
@@ -1483,7 +1483,7 @@
       "status": 10,
       "fans": 492,
       "level": 64,
-      "viewer": 7
+      "viewer": 9
     },
     {
       "id": 10004080,
@@ -1519,7 +1519,7 @@
       "status": 10,
       "fans": 478,
       "level": 74,
-      "viewer": 20
+      "viewer": 22
     },
     {
       "id": 10163271,
@@ -1735,7 +1735,7 @@
       "status": 10,
       "fans": 409,
       "level": 60,
-      "viewer": 26
+      "viewer": 27
     },
     {
       "id": 10047426,
@@ -1771,7 +1771,7 @@
       "status": 10,
       "fans": 402,
       "level": 63,
-      "viewer": 48
+      "viewer": 47
     },
     {
       "id": 10010583,
@@ -1798,7 +1798,7 @@
       "status": 10,
       "fans": 398,
       "level": 83,
-      "viewer": 32
+      "viewer": 34
     },
     {
       "id": 10008925,
@@ -1870,7 +1870,7 @@
       "status": 10,
       "fans": 386,
       "level": 79,
-      "viewer": 7
+      "viewer": 8
     },
     {
       "id": 10000137,
@@ -1888,7 +1888,7 @@
       "status": 10,
       "fans": 385,
       "level": 50,
-      "viewer": 15
+      "viewer": 14
     },
     {
       "id": 10007959,
@@ -2239,7 +2239,7 @@
       "status": 10,
       "fans": 339,
       "level": 90,
-      "viewer": 10
+      "viewer": 12
     },
     {
       "id": 10003413,
@@ -2311,7 +2311,7 @@
       "status": 10,
       "fans": 333,
       "level": 62,
-      "viewer": 94
+      "viewer": 93
     },
     {
       "id": 10011803,
@@ -2509,7 +2509,7 @@
       "status": 10,
       "fans": 308,
       "level": 67,
-      "viewer": 122
+      "viewer": 126
     },
     {
       "id": 10000492,
@@ -2518,7 +2518,7 @@
       "status": 10,
       "fans": 307,
       "level": 81,
-      "viewer": 23
+      "viewer": 22
     },
     {
       "id": 10030581,
@@ -2572,7 +2572,7 @@
       "status": 10,
       "fans": 304,
       "level": 54,
-      "viewer": 52
+      "viewer": 43
     },
     {
       "id": 10018498,
@@ -2779,7 +2779,7 @@
       "status": 10,
       "fans": 281,
       "level": 87,
-      "viewer": 1
+      "viewer": 2
     },
     {
       "id": 10158302,
@@ -3022,7 +3022,7 @@
       "status": 10,
       "fans": 261,
       "level": 65,
-      "viewer": 10
+      "viewer": 9
     },
     {
       "id": 10007428,
@@ -3490,7 +3490,7 @@
       "status": 10,
       "fans": 226,
       "level": 68,
-      "viewer": 9
+      "viewer": 8
     },
     {
       "id": 10109093,
@@ -3679,7 +3679,7 @@
       "status": 10,
       "fans": 214,
       "level": 34,
-      "viewer": 12
+      "viewer": 13
     },
     {
       "id": 10017182,
@@ -3715,7 +3715,7 @@
       "status": 10,
       "fans": 212,
       "level": 74,
-      "viewer": 12
+      "viewer": 11
     },
     {
       "id": 10193526,
@@ -3796,7 +3796,7 @@
       "status": 10,
       "fans": 198,
       "level": 71,
-      "viewer": 6
+      "viewer": 7
     },
     {
       "id": 10007972,
@@ -3886,7 +3886,7 @@
       "status": 10,
       "fans": 194,
       "level": 63,
-      "viewer": 7
+      "viewer": 8
     },
     {
       "id": 10088339,
@@ -3904,7 +3904,7 @@
       "status": 10,
       "fans": 192,
       "level": 20,
-      "viewer": 95
+      "viewer": 98
     },
     {
       "id": 10224075,
@@ -4084,7 +4084,7 @@
       "status": 10,
       "fans": 180,
       "level": 58,
-      "viewer": 21
+      "viewer": 20
     },
     {
       "id": 10004319,
@@ -4156,7 +4156,7 @@
       "status": 10,
       "fans": 175,
       "level": 48,
-      "viewer": 7
+      "viewer": 6
     },
     {
       "id": 10251149,
@@ -4192,7 +4192,7 @@
       "status": 10,
       "fans": 172,
       "level": 72,
-      "viewer": 8
+      "viewer": 7
     },
     {
       "id": 10000615,
@@ -4642,7 +4642,7 @@
       "status": 10,
       "fans": 151,
       "level": 71,
-      "viewer": 23
+      "viewer": 22
     },
     {
       "id": 10053775,
@@ -4714,7 +4714,7 @@
       "status": 10,
       "fans": 148,
       "level": 69,
-      "viewer": 5
+      "viewer": 4
     },
     {
       "id": 10028646,
@@ -4903,7 +4903,7 @@
       "status": 10,
       "fans": 142,
       "level": 79,
-      "viewer": 12
+      "viewer": 11
     },
     {
       "id": 10014198,
@@ -5074,7 +5074,7 @@
       "status": 10,
       "fans": 133,
       "level": 81,
-      "viewer": 5
+      "viewer": 4
     },
     {
       "id": 10096022,
@@ -5101,7 +5101,7 @@
       "status": 10,
       "fans": 132,
       "level": 60,
-      "viewer": 5
+      "viewer": 4
     },
     {
       "id": 10001639,
@@ -5470,7 +5470,7 @@
       "status": 10,
       "fans": 121,
       "level": 65,
-      "viewer": 14
+      "viewer": 12
     },
     {
       "id": 10001384,
@@ -5497,7 +5497,7 @@
       "status": 10,
       "fans": 120,
       "level": 80,
-      "viewer": 5
+      "viewer": 6
     },
     {
       "id": 10243905,
@@ -5542,7 +5542,7 @@
       "status": 10,
       "fans": 119,
       "level": 67,
-      "viewer": 14
+      "viewer": 15
     },
     {
       "id": 10012528,
@@ -6415,7 +6415,7 @@
       "status": 10,
       "fans": 96,
       "level": 79,
-      "viewer": 5
+      "viewer": 6
     },
     {
       "id": 10024811,
@@ -6802,7 +6802,7 @@
       "status": 10,
       "fans": 90,
       "level": 71,
-      "viewer": 5
+      "viewer": 4
     },
     {
       "id": 10000244,
@@ -7189,7 +7189,7 @@
       "status": 10,
       "fans": 84,
       "level": 65,
-      "viewer": 11
+      "viewer": 10
     },
     {
       "id": 10221887,
@@ -8845,7 +8845,7 @@
       "status": 10,
       "fans": 66,
       "level": 61,
-      "viewer": 5
+      "viewer": 4
     },
     {
       "id": 10010388,
@@ -10159,7 +10159,7 @@
       "status": 10,
       "fans": 55,
       "level": 43,
-      "viewer": 3
+      "viewer": 4
     },
     {
       "id": 10015457,
@@ -10258,7 +10258,7 @@
       "status": 10,
       "fans": 53,
       "level": 75,
-      "viewer": 17
+      "viewer": 15
     },
     {
       "id": 10090700,
@@ -10267,7 +10267,7 @@
       "status": 10,
       "fans": 53,
       "level": 22,
-      "viewer": 71
+      "viewer": 76
     },
     {
       "id": 10002347,
