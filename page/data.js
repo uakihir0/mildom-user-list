@@ -16,7 +16,7 @@ var mildom_users = {
       "status": 10,
       "fans": 42651,
       "level": 76,
-      "viewer": 2062
+      "viewer": 1966
     },
     {
       "id": 10103845,
@@ -124,7 +124,7 @@ var mildom_users = {
       "status": 10,
       "fans": 14669,
       "level": 47,
-      "viewer": 189
+      "viewer": 174
     },
     {
       "id": 10001309,
@@ -358,7 +358,7 @@ var mildom_users = {
       "status": 10,
       "fans": 3758,
       "level": 89,
-      "viewer": 538
+      "viewer": 526
     },
     {
       "id": 10041765,
@@ -439,7 +439,7 @@ var mildom_users = {
       "status": 10,
       "fans": 2671,
       "level": 61,
-      "viewer": 408
+      "viewer": 399
     },
     {
       "id": 10076884,
@@ -502,7 +502,7 @@ var mildom_users = {
       "status": 10,
       "fans": 2387,
       "level": 82,
-      "viewer": 104
+      "viewer": 97
     },
     {
       "id": 10121420,
@@ -673,7 +673,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1535,
       "level": 55,
-      "viewer": 260
+      "viewer": 259
     },
     {
       "id": 10008641,
@@ -916,7 +916,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1022,
       "level": 76,
-      "viewer": 21
+      "viewer": 19
     },
     {
       "id": 10090565,
@@ -1123,7 +1123,7 @@ var mildom_users = {
       "status": 10,
       "fans": 794,
       "level": 99,
-      "viewer": 16
+      "viewer": 17
     },
     {
       "id": 10000907,
@@ -1177,7 +1177,7 @@ var mildom_users = {
       "status": 10,
       "fans": 773,
       "level": 60,
-      "viewer": 63
+      "viewer": 71
     },
     {
       "id": 10276076,
@@ -1276,7 +1276,7 @@ var mildom_users = {
       "status": 10,
       "fans": 714,
       "level": 27,
-      "viewer": 344
+      "viewer": 348
     },
     {
       "id": 10036110,
@@ -1294,7 +1294,7 @@ var mildom_users = {
       "status": 10,
       "fans": 693,
       "level": 62,
-      "viewer": 10
+      "viewer": 9
     },
     {
       "id": 10352353,
@@ -1384,7 +1384,7 @@ var mildom_users = {
       "status": 10,
       "fans": 647,
       "level": 21,
-      "viewer": 14
+      "viewer": 13
     },
     {
       "id": 10025319,
@@ -1411,7 +1411,7 @@ var mildom_users = {
       "status": 10,
       "fans": 640,
       "level": 71,
-      "viewer": 154
+      "viewer": 144
     },
     {
       "id": 10022639,
@@ -1456,7 +1456,7 @@ var mildom_users = {
       "status": 10,
       "fans": 634,
       "level": 50,
-      "viewer": 318
+      "viewer": 308
     },
     {
       "id": 10028469,
@@ -1762,7 +1762,7 @@ var mildom_users = {
       "status": 10,
       "fans": 535,
       "level": 95,
-      "viewer": 8
+      "viewer": 7
     },
     {
       "id": 10004080,
@@ -1879,7 +1879,7 @@ var mildom_users = {
       "status": 10,
       "fans": 505,
       "level": 78,
-      "viewer": 18
+      "viewer": 17
     },
     {
       "id": 10080782,
@@ -1915,7 +1915,7 @@ var mildom_users = {
       "status": 10,
       "fans": 493,
       "level": 73,
-      "viewer": 40
+      "viewer": 39
     },
     {
       "id": 10244028,
@@ -2140,7 +2140,7 @@ var mildom_users = {
       "status": 10,
       "fans": 453,
       "level": 53,
-      "viewer": 17
+      "viewer": 19
     },
     {
       "id": 10041796,
@@ -2158,7 +2158,7 @@ var mildom_users = {
       "status": 10,
       "fans": 447,
       "level": 80,
-      "viewer": 9
+      "viewer": 11
     },
     {
       "id": 10176064,
@@ -2932,7 +2932,7 @@ var mildom_users = {
       "status": 10,
       "fans": 330,
       "level": 83,
-      "viewer": 14
+      "viewer": 13
     },
     {
       "id": 10019035,
@@ -3031,7 +3031,7 @@ var mildom_users = {
       "status": 10,
       "fans": 322,
       "level": 17,
-      "viewer": 46
+      "viewer": 47
     },
     {
       "id": 10125180,
@@ -3796,7 +3796,7 @@ var mildom_users = {
       "status": 10,
       "fans": 251,
       "level": 55,
-      "viewer": 6
+      "viewer": 5
     },
     {
       "id": 10012100,
@@ -4093,7 +4093,7 @@ var mildom_users = {
       "status": 10,
       "fans": 226,
       "level": 50,
-      "viewer": 15
+      "viewer": 13
     },
     {
       "id": 10033006,
@@ -4624,7 +4624,7 @@ var mildom_users = {
       "status": 10,
       "fans": 191,
       "level": 75,
-      "viewer": 17
+      "viewer": 16
     },
     {
       "id": 10079172,
@@ -4669,7 +4669,7 @@ var mildom_users = {
       "status": 10,
       "fans": 187,
       "level": 53,
-      "viewer": 6
+      "viewer": 5
     },
     {
       "id": 10009700,
@@ -4795,7 +4795,7 @@ var mildom_users = {
       "status": 10,
       "fans": 181,
       "level": 68,
-      "viewer": 9
+      "viewer": 8
     },
     {
       "id": 10082140,
@@ -4975,7 +4975,7 @@ var mildom_users = {
       "status": 10,
       "fans": 174,
       "level": 85,
-      "viewer": 6
+      "viewer": 5
     },
     {
       "id": 10047929,
@@ -5137,7 +5137,7 @@ var mildom_users = {
       "status": 10,
       "fans": 166,
       "level": 58,
-      "viewer": 11
+      "viewer": 10
     },
     {
       "id": 10176134,
@@ -5587,7 +5587,7 @@ var mildom_users = {
       "status": 10,
       "fans": 148,
       "level": 28,
-      "viewer": 22
+      "viewer": 23
     },
     {
       "id": 10080519,
@@ -6667,7 +6667,7 @@ var mildom_users = {
       "status": 10,
       "fans": 118,
       "level": 61,
-      "viewer": 9
+      "viewer": 10
     },
     {
       "id": 10101496,
@@ -6730,7 +6730,7 @@ var mildom_users = {
       "status": 10,
       "fans": 117,
       "level": 83,
-      "viewer": 2
+      "viewer": 3
     },
     {
       "id": 10004336,
@@ -6784,7 +6784,7 @@ var mildom_users = {
       "status": 10,
       "fans": 115,
       "level": 67,
-      "viewer": 3
+      "viewer": 2
     },
     {
       "id": 10003772,
@@ -7009,7 +7009,7 @@ var mildom_users = {
       "status": 10,
       "fans": 109,
       "level": 88,
-      "viewer": 4
+      "viewer": 3
     },
     {
       "id": 10002053,
@@ -9214,7 +9214,7 @@ var mildom_users = {
       "status": 10,
       "fans": 75,
       "level": 59,
-      "viewer": 4
+      "viewer": 3
     },
     {
       "id": 10164094,
@@ -10600,7 +10600,7 @@ var mildom_users = {
       "status": 10,
       "fans": 61,
       "level": 62,
-      "viewer": 3
+      "viewer": 4
     },
     {
       "id": 10128520,
@@ -10933,7 +10933,7 @@ var mildom_users = {
       "status": 10,
       "fans": 58,
       "level": 54,
-      "viewer": 18
+      "viewer": 19
     },
     {
       "id": 10004738,
