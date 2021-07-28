@@ -232,7 +232,7 @@ var mildom_users = {
       "status": 10,
       "fans": 16729,
       "level": 41,
-      "viewer": 448
+      "viewer": 393
     },
     {
       "id": 10001313,
@@ -304,7 +304,7 @@ var mildom_users = {
       "status": 10,
       "fans": 13453,
       "level": 78,
-      "viewer": 1357
+      "viewer": 1312
     },
     {
       "id": 10137924,
@@ -403,7 +403,7 @@ var mildom_users = {
       "status": 10,
       "fans": 11592,
       "level": 44,
-      "viewer": 175
+      "viewer": 193
     },
     {
       "id": 10293356,
@@ -565,7 +565,7 @@ var mildom_users = {
       "status": 10,
       "fans": 7114,
       "level": 107,
-      "viewer": 193
+      "viewer": 201
     },
     {
       "id": 10701245,
@@ -574,7 +574,7 @@ var mildom_users = {
       "status": 10,
       "fans": 7074,
       "level": 52,
-      "viewer": 133
+      "viewer": 134
     },
     {
       "id": 10846882,
@@ -673,7 +673,7 @@ var mildom_users = {
       "status": 10,
       "fans": 6159,
       "level": 95,
-      "viewer": 520
+      "viewer": 615
     },
     {
       "id": 10116311,
@@ -763,7 +763,7 @@ var mildom_users = {
       "status": 10,
       "fans": 5367,
       "level": 84,
-      "viewer": 563
+      "viewer": 541
     },
     {
       "id": 10830572,
@@ -1078,7 +1078,7 @@ var mildom_users = {
       "status": 10,
       "fans": 3724,
       "level": 97,
-      "viewer": 56
+      "viewer": 57
     },
     {
       "id": 10241454,
@@ -1294,7 +1294,7 @@ var mildom_users = {
       "status": 10,
       "fans": 2986,
       "level": 99,
-      "viewer": 81
+      "viewer": 77
     },
     {
       "id": 10424908,
@@ -1330,7 +1330,7 @@ var mildom_users = {
       "status": 10,
       "fans": 2866,
       "level": 30,
-      "viewer": 410
+      "viewer": 371
     },
     {
       "id": 10315874,
@@ -1465,7 +1465,7 @@ var mildom_users = {
       "status": 10,
       "fans": 2650,
       "level": 87,
-      "viewer": 61
+      "viewer": 60
     },
     {
       "id": 10783236,
@@ -3490,7 +3490,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1133,
       "level": 60,
-      "viewer": 225
+      "viewer": 226
     },
     {
       "id": 10319407,
