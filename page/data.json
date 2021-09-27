@@ -43,7 +43,7 @@
       "status": 10,
       "fans": 40125,
       "level": 80,
-      "viewer": 820
+      "viewer": 721
     },
     {
       "id": 10060712,
@@ -403,7 +403,7 @@
       "status": 10,
       "fans": 11592,
       "level": 44,
-      "viewer": 187
+      "viewer": 180
     },
     {
       "id": 10293356,
@@ -511,7 +511,7 @@
       "status": 10,
       "fans": 8037,
       "level": 56,
-      "viewer": 85
+      "viewer": 86
     },
     {
       "id": 10328078,
@@ -988,7 +988,7 @@
       "status": 10,
       "fans": 4013,
       "level": 101,
-      "viewer": 30
+      "viewer": 32
     },
     {
       "id": 10596385,
@@ -1078,7 +1078,7 @@
       "status": 10,
       "fans": 3724,
       "level": 97,
-      "viewer": 40
+      "viewer": 42
     },
     {
       "id": 10241454,
@@ -1366,7 +1366,7 @@
       "status": 10,
       "fans": 2805,
       "level": 95,
-      "viewer": 33
+      "viewer": 36
     },
     {
       "id": 10080610,
@@ -2068,7 +2068,7 @@
       "status": 10,
       "fans": 1815,
       "level": 87,
-      "viewer": 18
+      "viewer": 19
     },
     {
       "id": 10156639,
@@ -2365,7 +2365,7 @@
       "status": 10,
       "fans": 1634,
       "level": 86,
-      "viewer": 33
+      "viewer": 37
     },
     {
       "id": 10178688,
@@ -2923,7 +2923,7 @@
       "status": 10,
       "fans": 1354,
       "level": 97,
-      "viewer": 136
+      "viewer": 132
     },
     {
       "id": 10019870,
@@ -2977,7 +2977,7 @@
       "status": 10,
       "fans": 1316,
       "level": 107,
-      "viewer": 41
+      "viewer": 43
     },
     {
       "id": 10762555,
@@ -4237,7 +4237,7 @@
       "status": 10,
       "fans": 924,
       "level": 104,
-      "viewer": 113
+      "viewer": 112
     },
     {
       "id": 10344401,
@@ -6613,7 +6613,7 @@
       "status": 10,
       "fans": 471,
       "level": 87,
-      "viewer": 54
+      "viewer": 53
     },
     {
       "id": 10000322,
@@ -20869,7 +20869,7 @@
       "status": 10,
       "fans": 52,
       "level": 8,
-      "viewer": 155
+      "viewer": 162
     },
     {
       "id": 10010409,
