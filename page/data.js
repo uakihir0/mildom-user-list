@@ -88,7 +88,7 @@ var mildom_users = {
       "status": 10,
       "fans": 24125,
       "level": 53,
-      "viewer": 679
+      "viewer": 628
     },
     {
       "id": 10390436,
@@ -601,7 +601,7 @@ var mildom_users = {
       "status": 10,
       "fans": 6691,
       "level": 105,
-      "viewer": 21
+      "viewer": 22
     },
     {
       "id": 10317462,
@@ -1078,7 +1078,7 @@ var mildom_users = {
       "status": 10,
       "fans": 3724,
       "level": 97,
-      "viewer": 26
+      "viewer": 27
     },
     {
       "id": 10241454,
@@ -1366,7 +1366,7 @@ var mildom_users = {
       "status": 10,
       "fans": 2805,
       "level": 95,
-      "viewer": 41
+      "viewer": 43
     },
     {
       "id": 10080610,
@@ -1465,7 +1465,7 @@ var mildom_users = {
       "status": 10,
       "fans": 2650,
       "level": 87,
-      "viewer": 50
+      "viewer": 52
     },
     {
       "id": 10783236,
@@ -2365,7 +2365,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1634,
       "level": 86,
-      "viewer": 29
+      "viewer": 31
     },
     {
       "id": 10178688,
@@ -2626,7 +2626,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1488,
       "level": 43,
-      "viewer": 81
+      "viewer": 120
     },
     {
       "id": 10004950,
@@ -3031,7 +3031,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1296,
       "level": 34,
-      "viewer": 172
+      "viewer": 152
     },
     {
       "id": 10027026,
@@ -4237,7 +4237,7 @@ var mildom_users = {
       "status": 10,
       "fans": 924,
       "level": 104,
-      "viewer": 50
+      "viewer": 60
     },
     {
       "id": 10344401,
@@ -6586,7 +6586,7 @@ var mildom_users = {
       "status": 10,
       "fans": 476,
       "level": 34,
-      "viewer": 22
+      "viewer": 21
     },
     {
       "id": 10372587,
@@ -7216,7 +7216,7 @@ var mildom_users = {
       "status": 10,
       "fans": 406,
       "level": 30,
-      "viewer": 95
+      "viewer": 97
     },
     {
       "id": 10502126,
@@ -10735,7 +10735,7 @@ var mildom_users = {
       "status": 10,
       "fans": 180,
       "level": 95,
-      "viewer": 25
+      "viewer": 22
     },
     {
       "id": 10257187,
