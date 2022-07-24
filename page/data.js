@@ -322,7 +322,7 @@ var mildom_users = {
       "status": 10,
       "fans": 13299,
       "level": 58,
-      "viewer": 34
+      "viewer": 31
     },
     {
       "id": 10011642,
@@ -2347,7 +2347,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1650,
       "level": 91,
-      "viewer": 60
+      "viewer": 59
     },
     {
       "id": 10834105,
@@ -2437,7 +2437,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1577,
       "level": 106,
-      "viewer": 27
+      "viewer": 30
     },
     {
       "id": 10122734,
@@ -2833,7 +2833,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1407,
       "level": 92,
-      "viewer": 14
+      "viewer": 13
     },
     {
       "id": 10477114,
@@ -4156,7 +4156,7 @@ var mildom_users = {
       "status": 10,
       "fans": 943,
       "level": 98,
-      "viewer": 19
+      "viewer": 16
     },
     {
       "id": 10243796,
@@ -4849,7 +4849,7 @@ var mildom_users = {
       "status": 10,
       "fans": 768,
       "level": 92,
-      "viewer": 17
+      "viewer": 15
     },
     {
       "id": 10109216,
@@ -5290,7 +5290,7 @@ var mildom_users = {
       "status": 10,
       "fans": 701,
       "level": 21,
-      "viewer": 205
+      "viewer": 196
     },
     {
       "id": 10784211,
@@ -7189,7 +7189,7 @@ var mildom_users = {
       "status": 10,
       "fans": 407,
       "level": 99,
-      "viewer": 27
+      "viewer": 26
     },
     {
       "id": 10324964,
@@ -9934,7 +9934,7 @@ var mildom_users = {
       "status": 10,
       "fans": 215,
       "level": 89,
-      "viewer": 8
+      "viewer": 7
     },
     {
       "id": 10011857,
@@ -11716,7 +11716,7 @@ var mildom_users = {
       "status": 10,
       "fans": 153,
       "level": 52,
-      "viewer": 23
+      "viewer": 25
     },
     {
       "id": 10276113,
@@ -14155,7 +14155,7 @@ var mildom_users = {
       "status": 10,
       "fans": 105,
       "level": 56,
-      "viewer": 11
+      "viewer": 12
     },
     {
       "id": 10107925,
@@ -19042,7 +19042,7 @@ var mildom_users = {
       "status": 10,
       "fans": 62,
       "level": 93,
-      "viewer": 3
+      "viewer": 2
     },
     {
       "id": 10007323,
