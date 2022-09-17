@@ -2374,7 +2374,7 @@
       "status": 10,
       "fans": 1631,
       "level": 105,
-      "viewer": 103
+      "viewer": 100
     },
     {
       "id": 10317530,
@@ -2554,7 +2554,7 @@
       "status": 10,
       "fans": 1531,
       "level": 84,
-      "viewer": 11
+      "viewer": 12
     },
     {
       "id": 10317414,
@@ -4264,7 +4264,7 @@
       "status": 10,
       "fans": 917,
       "level": 93,
-      "viewer": 40
+      "viewer": 42
     },
     {
       "id": 10103409,
@@ -21265,7 +21265,7 @@
       "status": 10,
       "fans": 50,
       "level": 79,
-      "viewer": 1
+      "viewer": 2
     },
     {
       "id": 10524864,
