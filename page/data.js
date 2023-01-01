@@ -466,7 +466,7 @@ var mildom_users = {
       "status": 10,
       "fans": 8982,
       "level": 107,
-      "viewer": 85
+      "viewer": 82
     },
     {
       "id": 10121420,
@@ -8989,7 +8989,7 @@ var mildom_users = {
       "status": 10,
       "fans": 266,
       "level": 90,
-      "viewer": 24
+      "viewer": 22
     },
     {
       "id": 10545167,
@@ -15946,7 +15946,7 @@ var mildom_users = {
       "status": 10,
       "fans": 83,
       "level": 48,
-      "viewer": 11
+      "viewer": 10
     },
     {
       "id": 10023351,
