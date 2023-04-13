@@ -1429,7 +1429,7 @@
       "status": 10,
       "fans": 2736,
       "level": 101,
-      "viewer": 27
+      "viewer": 29
     },
     {
       "id": 10259183,
@@ -5290,7 +5290,7 @@
       "status": 10,
       "fans": 701,
       "level": 21,
-      "viewer": 210
+      "viewer": 185
     },
     {
       "id": 10784211,
@@ -8962,7 +8962,7 @@
       "status": 10,
       "fans": 268,
       "level": 68,
-      "viewer": 58
+      "viewer": 60
     },
     {
       "id": 10106088,
