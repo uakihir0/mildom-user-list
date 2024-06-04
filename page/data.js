@@ -3328,7 +3328,7 @@ var mildom_users = {
       "status": 10,
       "fans": 1174,
       "level": 92,
-      "viewer": 6
+      "viewer": 5
     },
     {
       "id": 10047426,
