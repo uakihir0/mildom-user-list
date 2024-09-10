@@ -838,15 +838,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10461804,
-      "name": "ふぇいたん【αD】",
-      "official": false,
-      "status": 10,
-      "fans": 31076,
-      "level": 92,
-      "viewer": 175
-    },
-    {
       "id": 10355318,
       "name": "でぃふぇあ",
       "official": false,
@@ -2458,15 +2449,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10007860,
-      "name": "かぼん",
-      "official": false,
-      "status": 10,
-      "fans": 6908,
-      "level": 103,
-      "viewer": 6
-    },
-    {
       "id": 10174277,
       "name": "ノビ/NOBI 鉄拳 TEKKEN@TeamYAMASA",
       "official": false,
@@ -3043,15 +3025,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10327084,
-      "name": "スパガ/Supaga",
-      "official": false,
-      "status": 10,
-      "fans": 5176,
-      "level": 69,
-      "viewer": 27
-    },
-    {
       "id": 10266334,
       "name": "まめ",
       "official": false,
@@ -3149,15 +3122,6 @@ var mildom_users = {
       "fans": 4972,
       "level": 101,
       "viewer": 18
-    },
-    {
-      "id": 11043439,
-      "name": "柊ありす",
-      "official": false,
-      "status": 10,
-      "fans": 4935,
-      "level": 84,
-      "viewer": 0
     },
     {
       "id": 10101488,
@@ -4075,15 +4039,6 @@ var mildom_users = {
       "status": 10,
       "fans": 3479,
       "level": 118,
-      "viewer": 0
-    },
-    {
-      "id": 10053960,
-      "name": "はろハロー",
-      "official": false,
-      "status": 10,
-      "fans": 3467,
-      "level": 113,
       "viewer": 0
     },
     {
@@ -6517,15 +6472,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10280219,
-      "name": "Nyanpi",
-      "official": false,
-      "status": 10,
-      "fans": 1693,
-      "level": 93,
-      "viewer": 0
-    },
-    {
       "id": 10225045,
       "name": "ぴよぴよ!!",
       "official": false,
@@ -6865,15 +6811,6 @@ var mildom_users = {
       "status": 10,
       "fans": 1573,
       "level": 91,
-      "viewer": 0
-    },
-    {
-      "id": 10506121,
-      "name": "BNSなの国",
-      "official": false,
-      "status": 10,
-      "fans": 1572,
-      "level": 84,
       "viewer": 0
     },
     {
@@ -7462,6 +7399,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 12744493,
+      "name": "雨宮家／雨宮棗【Amemiya／Natume】",
+      "official": false,
+      "status": 10,
+      "fans": 1418,
+      "level": 99,
+      "viewer": 0
+    },
+    {
       "id": 13217735,
       "name": "やすおまめ",
       "official": true,
@@ -7757,15 +7703,6 @@ var mildom_users = {
       "fans": 1332,
       "level": 141,
       "viewer": 0
-    },
-    {
-      "id": 10189212,
-      "name": "ほむら。",
-      "official": false,
-      "status": 10,
-      "fans": 1332,
-      "level": 103,
-      "viewer": 3
     },
     {
       "id": 10172881,
@@ -8272,6 +8209,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 12000658,
+      "name": "み(´δ`)",
+      "official": false,
+      "status": 10,
+      "fans": 1239,
+      "level": 106,
+      "viewer": 0
+    },
+    {
       "id": 100010,
       "name": "Mildom公式Game大会",
       "official": false,
@@ -8341,6 +8287,15 @@ var mildom_users = {
       "status": 10,
       "fans": 1224,
       "level": 106,
+      "viewer": 0
+    },
+    {
+      "id": 13975720,
+      "name": "神谷玲奈_IDOLHOUSE",
+      "official": true,
+      "status": 10,
+      "fans": 1223,
+      "level": 88,
       "viewer": 0
     },
     {
@@ -8605,6 +8560,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 14097556,
+      "name": "MSG_ネコドラ",
+      "official": true,
+      "status": 10,
+      "fans": 1165,
+      "level": 105,
+      "viewer": 0
+    },
+    {
       "id": 13575385,
       "name": "うの.",
       "official": true,
@@ -8620,15 +8584,6 @@ var mildom_users = {
       "status": 10,
       "fans": 1165,
       "level": 87,
-      "viewer": 0
-    },
-    {
-      "id": 14097556,
-      "name": "MSG_ネコドラ",
-      "official": true,
-      "status": 10,
-      "fans": 1165,
-      "level": 105,
       "viewer": 0
     },
     {
@@ -8926,6 +8881,15 @@ var mildom_users = {
       "status": 10,
       "fans": 1124,
       "level": 125,
+      "viewer": 0
+    },
+    {
+      "id": 12209643,
+      "name": "りい@PUBG",
+      "official": false,
+      "status": 10,
+      "fans": 1117,
+      "level": 84,
       "viewer": 0
     },
     {
@@ -9487,15 +9451,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11643813,
-      "name": "ぽむじろー",
-      "official": false,
-      "status": 10,
-      "fans": 1019,
-      "level": 106,
-      "viewer": 0
-    },
-    {
       "id": 10001909,
       "name": "杉田のゲーム実況",
       "official": false,
@@ -9775,15 +9730,6 @@ var mildom_users = {
       "viewer": 4
     },
     {
-      "id": 10475529,
-      "name": "のらねこCH",
-      "official": false,
-      "status": 10,
-      "fans": 961,
-      "level": 77,
-      "viewer": 5
-    },
-    {
       "id": 13513051,
       "name": "メッシくん【流星団】",
       "official": false,
@@ -9935,15 +9881,6 @@ var mildom_users = {
       "fans": 933,
       "level": 98,
       "viewer": 0
-    },
-    {
-      "id": 10002024,
-      "name": "りぃふ-Leaf-",
-      "official": false,
-      "status": 10,
-      "fans": 932,
-      "level": 102,
-      "viewer": 4
     },
     {
       "id": 10166170,
@@ -10978,6 +10915,15 @@ var mildom_users = {
       "status": 10,
       "fans": 773,
       "level": 98,
+      "viewer": 0
+    },
+    {
+      "id": 11219494,
+      "name": "すろｽ",
+      "official": false,
+      "status": 10,
+      "fans": 769,
+      "level": 95,
       "viewer": 0
     },
     {
@@ -12340,6 +12286,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 10555928,
+      "name": "おーるらいと",
+      "official": false,
+      "status": 10,
+      "fans": 603,
+      "level": 59,
+      "viewer": 0
+    },
+    {
       "id": 11632366,
       "name": "M.Kaleidoscope0w0｡oO(暇)",
       "official": true,
@@ -12472,24 +12427,6 @@ var mildom_users = {
       "status": 10,
       "fans": 583,
       "level": 106,
-      "viewer": 0
-    },
-    {
-      "id": 10540850,
-      "name": "げーむたけ",
-      "official": false,
-      "status": 10,
-      "fans": 582,
-      "level": 76,
-      "viewer": 2
-    },
-    {
-      "id": 12467244,
-      "name": "ポッッッ",
-      "official": true,
-      "status": 10,
-      "fans": 581,
-      "level": 112,
       "viewer": 0
     },
     {
@@ -12787,15 +12724,6 @@ var mildom_users = {
       "status": 10,
       "fans": 550,
       "level": 113,
-      "viewer": 0
-    },
-    {
-      "id": 13604920,
-      "name": "ぎゅうお【SGX所属】",
-      "official": true,
-      "status": 10,
-      "fans": 548,
-      "level": 102,
       "viewer": 0
     },
     {
@@ -13294,21 +13222,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10132172,
-      "name": "INT・WxxD",
-      "official": false,
-      "status": 10,
-      "fans": 489,
-      "level": 94,
-      "viewer": 0
-    },
-    {
       "id": 11446741,
       "name": "KyawaChan",
       "official": true,
       "status": 10,
       "fans": 489,
       "level": 95,
+      "viewer": 0
+    },
+    {
+      "id": 10132172,
+      "name": "INT・WxxD",
+      "official": false,
+      "status": 10,
+      "fans": 489,
+      "level": 94,
       "viewer": 0
     },
     {
@@ -13852,6 +13780,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 13925455,
+      "name": "BKST天使☆ちゃむ",
+      "official": true,
+      "status": 10,
+      "fans": 442,
+      "level": 102,
+      "viewer": 0
+    },
+    {
       "id": 12448288,
       "name": "x_xyukax_x",
       "official": true,
@@ -14005,6 +13942,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 12773856,
+      "name": "たるはむ",
+      "official": true,
+      "status": 10,
+      "fans": 433,
+      "level": 130,
+      "viewer": 0
+    },
+    {
       "id": 11618350,
       "name": "山狗 海豚(ヤマイヌ)",
       "official": false,
@@ -14149,6 +14095,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 14153634,
+      "name": "ちるーぴー((̵̵́ ̆͒͟˚̩̭ ̆͒)̵̵̀)⸝o̗",
+      "official": true,
+      "status": 10,
+      "fans": 428,
+      "level": 111,
+      "viewer": 0
+    },
+    {
       "id": 14149506,
       "name": "よーこちゃ",
       "official": true,
@@ -14212,21 +14167,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 12993943,
-      "name": "すぱむたろー",
-      "official": false,
-      "status": 10,
-      "fans": 425,
-      "level": 70,
-      "viewer": 0
-    },
-    {
       "id": 10933068,
       "name": "あんぱんまん..",
       "official": false,
       "status": 10,
       "fans": 425,
       "level": 109,
+      "viewer": 0
+    },
+    {
+      "id": 12993943,
+      "name": "すぱむたろー",
+      "official": false,
+      "status": 10,
+      "fans": 425,
+      "level": 70,
       "viewer": 0
     },
     {
@@ -14869,15 +14824,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 12088672,
-      "name": "L1a5o",
-      "official": false,
-      "status": 10,
-      "fans": 363,
-      "level": 79,
-      "viewer": 0
-    },
-    {
       "id": 13774994,
       "name": "アキラ先輩@いちごまなか",
       "official": true,
@@ -15139,15 +15085,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10505635,
-      "name": "こたぽん〘けんおじ！！管理人〙",
-      "official": false,
-      "status": 10,
-      "fans": 348,
-      "level": 104,
-      "viewer": 0
-    },
-    {
       "id": 13139150,
       "name": "ＬＢＴ〆こんすけ",
       "official": false,
@@ -15173,6 +15110,15 @@ var mildom_users = {
       "fans": 348,
       "level": 90,
       "viewer": 3
+    },
+    {
+      "id": 10505635,
+      "name": "こたぽん〘けんおじ！！管理人〙",
+      "official": false,
+      "status": 10,
+      "fans": 348,
+      "level": 104,
+      "viewer": 0
     },
     {
       "id": 13497406,
@@ -15310,21 +15256,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11128994,
-      "name": "おがねそん☃︎",
-      "official": false,
-      "status": 10,
-      "fans": 340,
-      "level": 107,
-      "viewer": 0
-    },
-    {
       "id": 11029064,
       "name": "めがね丸",
       "official": false,
       "status": 10,
       "fans": 340,
       "level": 105,
+      "viewer": 0
+    },
+    {
+      "id": 11128994,
+      "name": "おがねそん☃︎",
+      "official": false,
+      "status": 10,
+      "fans": 340,
+      "level": 107,
       "viewer": 0
     },
     {
@@ -15409,21 +15355,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 10265582,
+      "name": "お嬢卍・꒰ঌmisaki໒꒱(じょん)",
+      "official": true,
+      "status": 10,
+      "fans": 332,
+      "level": 103,
+      "viewer": 0
+    },
+    {
       "id": 11462494,
       "name": "ぷるっとねこち",
       "official": true,
       "status": 10,
       "fans": 332,
       "level": 111,
-      "viewer": 0
-    },
-    {
-      "id": 10681161,
-      "name": "はりゅ【SB族】",
-      "official": false,
-      "status": 10,
-      "fans": 332,
-      "level": 107,
       "viewer": 0
     },
     {
@@ -15436,12 +15382,12 @@ var mildom_users = {
       "viewer": 3
     },
     {
-      "id": 10265582,
-      "name": "お嬢卍・꒰ঌmisaki໒꒱(じょん)",
-      "official": true,
+      "id": 10681161,
+      "name": "はりゅ【SB族】",
+      "official": false,
       "status": 10,
       "fans": 332,
-      "level": 103,
+      "level": 107,
       "viewer": 0
     },
     {
@@ -15580,15 +15526,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11511596,
-      "name": "---00-",
-      "official": false,
-      "status": 10,
-      "fans": 325,
-      "level": 86,
-      "viewer": 0
-    },
-    {
       "id": 13525645,
       "name": "なつめめ⠉̮⃝︎︎",
       "official": false,
@@ -15613,6 +15550,15 @@ var mildom_users = {
       "status": 10,
       "fans": 324,
       "level": 87,
+      "viewer": 0
+    },
+    {
+      "id": 12227572,
+      "name": "らとパッシュ",
+      "official": false,
+      "status": 10,
+      "fans": 324,
+      "level": 100,
       "viewer": 0
     },
     {
@@ -15679,15 +15625,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 12189070,
-      "name": "ポテ丸やで",
-      "official": false,
-      "status": 10,
-      "fans": 321,
-      "level": 97,
-      "viewer": 0
-    },
-    {
       "id": 10226650,
       "name": "LREてんき",
       "official": false,
@@ -15712,24 +15649,6 @@ var mildom_users = {
       "status": 10,
       "fans": 320,
       "level": 95,
-      "viewer": 0
-    },
-    {
-      "id": 14271082,
-      "name": "Arumalio4",
-      "official": false,
-      "status": 10,
-      "fans": 319,
-      "level": 90,
-      "viewer": 0
-    },
-    {
-      "id": 12559505,
-      "name": "ひゅな",
-      "official": false,
-      "status": 10,
-      "fans": 319,
-      "level": 88,
       "viewer": 0
     },
     {
@@ -15775,6 +15694,15 @@ var mildom_users = {
       "status": 10,
       "fans": 316,
       "level": 104,
+      "viewer": 0
+    },
+    {
+      "id": 11280929,
+      "name": "four",
+      "official": false,
+      "status": 10,
+      "fans": 315,
+      "level": 64,
       "viewer": 0
     },
     {
@@ -15856,6 +15784,15 @@ var mildom_users = {
       "status": 10,
       "fans": 311,
       "level": 91,
+      "viewer": 0
+    },
+    {
+      "id": 10013764,
+      "name": "パピヨンBB",
+      "official": false,
+      "status": 10,
+      "fans": 310,
+      "level": 93,
       "viewer": 0
     },
     {
@@ -16075,6 +16012,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 11779233,
+      "name": "だけ男",
+      "official": false,
+      "status": 10,
+      "fans": 288,
+      "level": 89,
+      "viewer": 0
+    },
+    {
       "id": 10265376,
       "name": "りゅうしろう",
       "official": true,
@@ -16273,6 +16219,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 12858318,
+      "name": "みっちゅん",
+      "official": true,
+      "status": 10,
+      "fans": 277,
+      "level": 124,
+      "viewer": 0
+    },
+    {
       "id": 10225738,
       "name": "hamu86",
       "official": false,
@@ -16378,6 +16333,15 @@ var mildom_users = {
       "status": 10,
       "fans": 269,
       "level": 101,
+      "viewer": 0
+    },
+    {
+      "id": 11602049,
+      "name": "kyuukun00",
+      "official": false,
+      "status": 10,
+      "fans": 269,
+      "level": 80,
       "viewer": 0
     },
     {
@@ -16588,6 +16552,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 10266322,
+      "name": "Lv.2 しゅん.♠︎",
+      "official": true,
+      "status": 10,
+      "fans": 257,
+      "level": 134,
+      "viewer": 0
+    },
+    {
       "id": 13659905,
       "name": "彩星つむぎ",
       "official": false,
@@ -16669,21 +16642,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10936056,
-      "name": "XD©︎",
-      "official": false,
-      "status": 10,
-      "fans": 252,
-      "level": 89,
-      "viewer": 0
-    },
-    {
       "id": 10178247,
       "name": "Examyyyyyy",
       "official": false,
       "status": 10,
       "fans": 252,
       "level": 10,
+      "viewer": 0
+    },
+    {
+      "id": 10936056,
+      "name": "XD©︎",
+      "official": false,
+      "status": 10,
+      "fans": 252,
+      "level": 89,
       "viewer": 0
     },
     {
@@ -16858,15 +16831,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 14485553,
-      "name": "みとぅVTuber",
-      "official": false,
-      "status": 10,
-      "fans": 241,
-      "level": 77,
-      "viewer": 0
-    },
-    {
       "id": 12624289,
       "name": "くずぴっぴの嫁",
       "official": false,
@@ -16990,6 +16954,15 @@ var mildom_users = {
       "status": 10,
       "fans": 236,
       "level": 76,
+      "viewer": 0
+    },
+    {
+      "id": 10030091,
+      "name": "かんこーひー",
+      "official": false,
+      "status": 10,
+      "fans": 236,
+      "level": 99,
       "viewer": 0
     },
     {
@@ -17155,15 +17128,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11371371,
-      "name": "しーちゃん0613",
-      "official": false,
-      "status": 10,
-      "fans": 229,
-      "level": 81,
-      "viewer": 0
-    },
-    {
       "id": 10247832,
       "name": "魚の訓読み？ウォウウォ",
       "official": false,
@@ -17254,21 +17218,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10271837,
-      "name": "赤線〆ナベどす",
-      "official": false,
-      "status": 10,
-      "fans": 224,
-      "level": 96,
-      "viewer": 0
-    },
-    {
       "id": 11595394,
       "name": "どらやきだぁ",
       "official": false,
       "status": 10,
       "fans": 224,
       "level": 83,
+      "viewer": 0
+    },
+    {
+      "id": 10271837,
+      "name": "赤線〆ナベどす",
+      "official": false,
+      "status": 10,
+      "fans": 224,
+      "level": 96,
       "viewer": 0
     },
     {
@@ -17341,6 +17305,15 @@ var mildom_users = {
       "status": 10,
       "fans": 221,
       "level": 68,
+      "viewer": 0
+    },
+    {
+      "id": 14352591,
+      "name": "たかちゃんEX☺︎︎︎☀︎ᕷ·͜·ꪑ𓃠🦖",
+      "official": false,
+      "status": 10,
+      "fans": 220,
+      "level": 124,
       "viewer": 0
     },
     {
@@ -17533,21 +17506,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10441724,
-      "name": "メンヘラ7剣/D",
-      "official": false,
-      "status": 10,
-      "fans": 210,
-      "level": 96,
-      "viewer": 0
-    },
-    {
       "id": 10781674,
       "name": "ぱち pachi_14_",
       "official": false,
       "status": 10,
       "fans": 210,
       "level": 91,
+      "viewer": 0
+    },
+    {
+      "id": 10441724,
+      "name": "メンヘラ7剣/D",
+      "official": false,
+      "status": 10,
+      "fans": 210,
+      "level": 96,
       "viewer": 0
     },
     {
@@ -17620,6 +17593,15 @@ var mildom_users = {
       "status": 10,
       "fans": 208,
       "level": 40,
+      "viewer": 0
+    },
+    {
+      "id": 10868393,
+      "name": "めのちは暇つぶしに見に行く",
+      "official": false,
+      "status": 10,
+      "fans": 208,
+      "level": 89,
       "viewer": 0
     },
     {
@@ -17812,6 +17794,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 10319833,
+      "name": "バニラさん",
+      "official": false,
+      "status": 10,
+      "fans": 201,
+      "level": 86,
+      "viewer": 0
+    },
+    {
       "id": 12091808,
       "name": "限界JKオタクのあい",
       "official": false,
@@ -17947,6 +17938,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 14028570,
+      "name": "影山美咲【MORE*】OTONOVA2023参戦",
+      "official": false,
+      "status": 10,
+      "fans": 194,
+      "level": 55,
+      "viewer": 0
+    },
+    {
       "id": 13307494,
       "name": "れいちぇる《凸まる♔໊》",
       "official": false,
@@ -18010,6 +18010,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 10334093,
+      "name": "GGって感じのナツ",
+      "official": true,
+      "status": 10,
+      "fans": 191,
+      "level": 75,
+      "viewer": 0
+    },
+    {
       "id": 14001608,
       "name": "な て☁︎*.",
       "official": false,
@@ -18019,12 +18028,12 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10334093,
-      "name": "GGって感じのナツ",
-      "official": true,
+      "id": 11135123,
+      "name": "バズ【ラムラムGモデ/管理人】",
+      "official": false,
       "status": 10,
       "fans": 191,
-      "level": 75,
+      "level": 124,
       "viewer": 0
     },
     {
@@ -18187,15 +18196,6 @@ var mildom_users = {
       "status": 10,
       "fans": 184,
       "level": 98,
-      "viewer": 0
-    },
-    {
-      "id": 10437806,
-      "name": "このぱな",
-      "official": false,
-      "status": 10,
-      "fans": 184,
-      "level": 91,
       "viewer": 0
     },
     {
@@ -18838,15 +18838,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11243311,
-      "name": "はやと*",
-      "official": false,
-      "status": 10,
-      "fans": 163,
-      "level": 97,
-      "viewer": 0
-    },
-    {
       "id": 10031569,
       "name": "きたしげき",
       "official": false,
@@ -18901,21 +18892,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 13047638,
-      "name": "アスラン・ザラ",
-      "official": false,
-      "status": 10,
-      "fans": 162,
-      "level": 109,
-      "viewer": 0
-    },
-    {
       "id": 12846422,
       "name": "ペンタゴンItooooo(\u003dﾟωﾟ)ﾉ",
       "official": true,
       "status": 10,
       "fans": 162,
       "level": 118,
+      "viewer": 0
+    },
+    {
+      "id": 13047638,
+      "name": "アスラン・ザラ",
+      "official": false,
+      "status": 10,
+      "fans": 162,
+      "level": 109,
       "viewer": 0
     },
     {
@@ -19078,6 +19069,15 @@ var mildom_users = {
       "status": 10,
       "fans": 155,
       "level": 96,
+      "viewer": 0
+    },
+    {
+      "id": 10809541,
+      "name": "yaehuji/ふじこ",
+      "official": false,
+      "status": 10,
+      "fans": 155,
+      "level": 85,
       "viewer": 0
     },
     {
@@ -19360,6 +19360,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 10011350,
+      "name": "ふくたろさん",
+      "official": false,
+      "status": 10,
+      "fans": 145,
+      "level": 100,
+      "viewer": 0
+    },
+    {
       "id": 13878305,
       "name": "がふゆう。",
       "official": false,
@@ -19396,21 +19405,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 13989934,
-      "name": "たまねぎねぎねぎねーぎねぎ‎꜀(꜆-ࡇ-)꜆",
-      "official": false,
-      "status": 10,
-      "fans": 143,
-      "level": 88,
-      "viewer": 0
-    },
-    {
       "id": 12896860,
       "name": "YねぎみそY",
       "official": false,
       "status": 10,
       "fans": 143,
       "level": 70,
+      "viewer": 0
+    },
+    {
+      "id": 13989934,
+      "name": "たまねぎねぎねぎねーぎねぎ‎꜀(꜆-ࡇ-)꜆",
+      "official": false,
+      "status": 10,
+      "fans": 143,
+      "level": 88,
       "viewer": 0
     },
     {
@@ -19531,6 +19540,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 11551379,
+      "name": "ロビットソン",
+      "official": false,
+      "status": 10,
+      "fans": 140,
+      "level": 76,
+      "viewer": 0
+    },
+    {
       "id": 10447047,
       "name": "すとろんぐ〆強弱",
       "official": false,
@@ -19576,21 +19594,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 13981945,
-      "name": "かんがるーさん",
-      "official": false,
-      "status": 10,
-      "fans": 138,
-      "level": 41,
-      "viewer": 0
-    },
-    {
       "id": 10557425,
       "name": "かもめが日本一",
       "official": false,
       "status": 10,
       "fans": 138,
       "level": 66,
+      "viewer": 0
+    },
+    {
+      "id": 13981945,
+      "name": "かんがるーさん",
+      "official": false,
+      "status": 10,
+      "fans": 138,
+      "level": 41,
       "viewer": 0
     },
     {
@@ -19648,21 +19666,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 14282495,
-      "name": "だーくん2468",
-      "official": false,
-      "status": 10,
-      "fans": 136,
-      "level": 71,
-      "viewer": 0
-    },
-    {
       "id": 13717354,
       "name": "shun_63n꒰ঌᴹ໒꒱",
       "official": false,
       "status": 10,
       "fans": 136,
       "level": 96,
+      "viewer": 0
+    },
+    {
+      "id": 14282495,
+      "name": "だーくん2468",
+      "official": false,
+      "status": 10,
+      "fans": 136,
+      "level": 71,
       "viewer": 0
     },
     {
@@ -19675,21 +19693,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 13991624,
-      "name": "苺ご飯p",
-      "official": false,
-      "status": 10,
-      "fans": 136,
-      "level": 81,
-      "viewer": 0
-    },
-    {
       "id": 14129618,
       "name": "ごじごじ王子2回目のリスナーリストラ",
       "official": true,
       "status": 10,
       "fans": 136,
       "level": 120,
+      "viewer": 0
+    },
+    {
+      "id": 13991624,
+      "name": "苺ご飯p",
+      "official": false,
+      "status": 10,
+      "fans": 136,
+      "level": 81,
       "viewer": 0
     },
     {
@@ -20125,15 +20143,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 14343510,
-      "name": "Be,s_soiby（そいびぃ）",
-      "official": false,
-      "status": 10,
-      "fans": 126,
-      "level": 73,
-      "viewer": 0
-    },
-    {
       "id": 10792576,
       "name": "つるぽんぬ/つるか",
       "official": false,
@@ -20251,21 +20260,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 13773418,
-      "name": "ぷにそら",
-      "official": false,
-      "status": 10,
-      "fans": 123,
-      "level": 72,
-      "viewer": 0
-    },
-    {
       "id": 12812619,
       "name": "ばそやも",
       "official": false,
       "status": 10,
       "fans": 123,
       "level": 85,
+      "viewer": 0
+    },
+    {
+      "id": 13773418,
+      "name": "ぷにそら",
+      "official": false,
+      "status": 10,
+      "fans": 123,
+      "level": 72,
       "viewer": 0
     },
     {
@@ -20656,21 +20665,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10930380,
-      "name": "あげはʚïɞ",
-      "official": false,
-      "status": 10,
-      "fans": 111,
-      "level": 107,
-      "viewer": 0
-    },
-    {
       "id": 14032630,
       "name": "あるものから逃げた野菜",
       "official": false,
       "status": 10,
       "fans": 111,
       "level": 81,
+      "viewer": 0
+    },
+    {
+      "id": 10930380,
+      "name": "あげはʚïɞ",
+      "official": false,
+      "status": 10,
+      "fans": 111,
+      "level": 107,
       "viewer": 0
     },
     {
@@ -20782,15 +20791,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 12884048,
-      "name": "みるくぅなっつぅ",
-      "official": false,
-      "status": 10,
-      "fans": 109,
-      "level": 95,
-      "viewer": 0
-    },
-    {
       "id": 11489515,
       "name": "BCتくぅぺん【ちりぺんモデ】",
       "official": true,
@@ -20800,12 +20800,12 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10183327,
-      "name": "YYG_悪魔＆にゃんちゅうが腐った。",
+      "id": 12884048,
+      "name": "みるくぅなっつぅ",
       "official": false,
       "status": 10,
       "fans": 109,
-      "level": 102,
+      "level": 95,
       "viewer": 0
     },
     {
@@ -20842,6 +20842,15 @@ var mildom_users = {
       "status": 10,
       "fans": 108,
       "level": 109,
+      "viewer": 0
+    },
+    {
+      "id": 11621323,
+      "name": "めがぁ！めがぁぁぁああああ！",
+      "official": false,
+      "status": 10,
+      "fans": 108,
+      "level": 90,
       "viewer": 0
     },
     {
@@ -20998,21 +21007,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11328723,
-      "name": "ないちりげ〜る",
-      "official": false,
-      "status": 10,
-      "fans": 104,
-      "level": 78,
-      "viewer": 0
-    },
-    {
       "id": 10322258,
       "name": "あげあげ",
       "official": false,
       "status": 10,
       "fans": 104,
       "level": 98,
+      "viewer": 0
+    },
+    {
+      "id": 11328723,
+      "name": "ないちりげ〜る",
+      "official": false,
+      "status": 10,
+      "fans": 104,
+      "level": 78,
       "viewer": 0
     },
     {
@@ -21148,15 +21157,6 @@ var mildom_users = {
       "status": 10,
       "fans": 100,
       "level": 102,
-      "viewer": 0
-    },
-    {
-      "id": 11225632,
-      "name": "oxぶんぶんxo",
-      "official": false,
-      "status": 10,
-      "fans": 100,
-      "level": 87,
       "viewer": 0
     },
     {
@@ -21403,21 +21403,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 12296592,
-      "name": "とりっぴーからあげクンレッド",
-      "official": false,
-      "status": 10,
-      "fans": 95,
-      "level": 98,
-      "viewer": 0
-    },
-    {
       "id": 13237524,
       "name": "おげちょ",
       "official": false,
       "status": 10,
       "fans": 95,
       "level": 115,
+      "viewer": 0
+    },
+    {
+      "id": 12296592,
+      "name": "とりっぴーからあげクンレッド",
+      "official": false,
+      "status": 10,
+      "fans": 95,
+      "level": 98,
       "viewer": 0
     },
     {
@@ -21502,21 +21502,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11217463,
-      "name": "じェりこ（お゛ま゛）",
-      "official": false,
-      "status": 10,
-      "fans": 94,
-      "level": 94,
-      "viewer": 0
-    },
-    {
       "id": 12682665,
       "name": "HzD・じぇりり",
       "official": false,
       "status": 10,
       "fans": 94,
       "level": 61,
+      "viewer": 0
+    },
+    {
+      "id": 11217463,
+      "name": "じェりこ（お゛ま゛）",
+      "official": false,
+      "status": 10,
+      "fans": 94,
+      "level": 94,
       "viewer": 0
     },
     {
@@ -21589,6 +21589,15 @@ var mildom_users = {
       "status": 10,
       "fans": 92,
       "level": 100,
+      "viewer": 0
+    },
+    {
+      "id": 13487187,
+      "name": "そう配信の部屋",
+      "official": false,
+      "status": 10,
+      "fans": 92,
+      "level": 90,
       "viewer": 0
     },
     {
@@ -21799,15 +21808,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10283257,
-      "name": "こっぷちゃんんん",
-      "official": false,
-      "status": 10,
-      "fans": 87,
-      "level": 97,
-      "viewer": 0
-    },
-    {
       "id": 11428672,
       "name": "Khrist(ほぼ2000歳)｡oO(神)",
       "official": false,
@@ -21832,6 +21832,15 @@ var mildom_users = {
       "status": 10,
       "fans": 86,
       "level": 72,
+      "viewer": 0
+    },
+    {
+      "id": 14401901,
+      "name": "DONTOKOi5151jp",
+      "official": false,
+      "status": 10,
+      "fans": 86,
+      "level": 91,
       "viewer": 0
     },
     {
@@ -21889,6 +21898,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 13263018,
+      "name": "ぴょんすぅん",
+      "official": false,
+      "status": 10,
+      "fans": 85,
+      "level": 98,
+      "viewer": 0
+    },
+    {
       "id": 10107670,
       "name": "ねこぜぇ",
       "official": false,
@@ -21943,15 +21961,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10570714,
-      "name": "うらにわ",
-      "official": false,
-      "status": 10,
-      "fans": 84,
-      "level": 61,
-      "viewer": 0
-    },
-    {
       "id": 11308738,
       "name": "とらさん9over1ap9",
       "official": false,
@@ -21976,6 +21985,15 @@ var mildom_users = {
       "status": 10,
       "fans": 83,
       "level": 103,
+      "viewer": 0
+    },
+    {
+      "id": 12717961,
+      "name": "うにぼー",
+      "official": false,
+      "status": 10,
+      "fans": 83,
+      "level": 92,
       "viewer": 0
     },
     {
@@ -22069,6 +22087,15 @@ var mildom_users = {
       "viewer": 0
     },
     {
+      "id": 13651857,
+      "name": "ごりまっしゅ【期間限定？】🦍🥕‪",
+      "official": false,
+      "status": 10,
+      "fans": 79,
+      "level": 89,
+      "viewer": 0
+    },
+    {
       "id": 12956826,
       "name": "なすりんごʕ•ᴥ•ʔ",
       "official": false,
@@ -22087,15 +22114,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11963226,
-      "name": "ゔぇのむ。",
-      "official": false,
-      "status": 10,
-      "fans": 78,
-      "level": 76,
-      "viewer": 0
-    },
-    {
       "id": 12155617,
       "name": "ごるっぴうぇーい乁( ˙ω˙ 乁)",
       "official": false,
@@ -22105,12 +22123,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 13173696,
-      "name": "ʚんごɞ",
+      "id": 11963226,
+      "name": "ゔぇのむ。",
       "official": false,
       "status": 10,
       "fans": 78,
-      "level": 79,
+      "level": 76,
+      "viewer": 0
+    },
+    {
+      "id": 10065806,
+      "name": "ぬる茶",
+      "official": false,
+      "status": 10,
+      "fans": 78,
+      "level": 97,
       "viewer": 0
     },
     {
@@ -22123,12 +22150,12 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10065806,
-      "name": "ぬる茶",
+      "id": 10646639,
+      "name": "めいまるえび🧑🏻‍🦲ぽん小杉推し㉿",
       "official": false,
       "status": 10,
       "fans": 78,
-      "level": 97,
+      "level": 103,
       "viewer": 0
     },
     {
@@ -22165,6 +22192,15 @@ var mildom_users = {
       "status": 10,
       "fans": 77,
       "level": 87,
+      "viewer": 0
+    },
+    {
+      "id": 11992730,
+      "name": "keihan6010/(タンバリンの犬)",
+      "official": false,
+      "status": 10,
+      "fans": 76,
+      "level": 88,
       "viewer": 0
     },
     {
@@ -22321,21 +22357,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11587431,
-      "name": "だおだおぬこ腐人",
-      "official": false,
-      "status": 10,
-      "fans": 73,
-      "level": 93,
-      "viewer": 0
-    },
-    {
       "id": 10290110,
       "name": "こんせんとぬん",
       "official": false,
       "status": 10,
       "fans": 73,
       "level": 91,
+      "viewer": 0
+    },
+    {
+      "id": 11587431,
+      "name": "だおだおぬこ腐人",
+      "official": false,
+      "status": 10,
+      "fans": 73,
+      "level": 93,
       "viewer": 0
     },
     {
@@ -22447,12 +22483,12 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 12149338,
-      "name": "そばがらさん",
+      "id": 10178372,
+      "name": "ば き ゃ ん",
       "official": false,
       "status": 10,
       "fans": 70,
-      "level": 99,
+      "level": 57,
       "viewer": 0
     },
     {
@@ -22591,15 +22627,6 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11142741,
-      "name": "ぬーぶ。",
-      "official": false,
-      "status": 10,
-      "fans": 66,
-      "level": 82,
-      "viewer": 0
-    },
-    {
       "id": 10610057,
       "name": "ぬㄘゃ~",
       "official": false,
@@ -22607,6 +22634,15 @@ var mildom_users = {
       "fans": 66,
       "level": 52,
       "viewer": 1
+    },
+    {
+      "id": 11142741,
+      "name": "ぬーぶ。",
+      "official": false,
+      "status": 10,
+      "fans": 66,
+      "level": 82,
+      "viewer": 0
     },
     {
       "id": 11591244,
@@ -22618,21 +22654,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 11326903,
-      "name": "4qua",
-      "official": false,
-      "status": 10,
-      "fans": 65,
-      "level": 81,
-      "viewer": 0
-    },
-    {
       "id": 13648625,
       "name": "IQ3のカス",
       "official": false,
       "status": 10,
       "fans": 65,
       "level": 69,
+      "viewer": 0
+    },
+    {
+      "id": 11326903,
+      "name": "4qua",
+      "official": false,
+      "status": 10,
+      "fans": 65,
+      "level": 81,
       "viewer": 0
     },
     {
@@ -22723,6 +22759,15 @@ var mildom_users = {
       "status": 10,
       "fans": 64,
       "level": 107,
+      "viewer": 0
+    },
+    {
+      "id": 13145021,
+      "name": "いんきゃぎゃる",
+      "official": false,
+      "status": 10,
+      "fans": 63,
+      "level": 82,
       "viewer": 0
     },
     {
@@ -22987,21 +23032,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 14475421,
-      "name": "月守和真＠アザマス",
-      "official": false,
-      "status": 10,
-      "fans": 55,
-      "level": 68,
-      "viewer": 0
-    },
-    {
       "id": 12905096,
       "name": "Razor(レザー)",
       "official": false,
       "status": 10,
       "fans": 55,
       "level": 89,
+      "viewer": 0
+    },
+    {
+      "id": 14475421,
+      "name": "月守和真＠アザマス",
+      "official": false,
+      "status": 10,
+      "fans": 55,
+      "level": 68,
       "viewer": 0
     },
     {
@@ -23041,21 +23086,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 13255422,
-      "name": "げんそん・Shiro",
-      "official": false,
-      "status": 10,
-      "fans": 54,
-      "level": 74,
-      "viewer": 0
-    },
-    {
       "id": 13032284,
       "name": "しげポン！！",
       "official": false,
       "status": 10,
       "fans": 54,
       "level": 94,
+      "viewer": 0
+    },
+    {
+      "id": 13255422,
+      "name": "げんそん・Shiro",
+      "official": false,
+      "status": 10,
+      "fans": 54,
+      "level": 74,
       "viewer": 0
     },
     {
@@ -23077,21 +23122,21 @@ var mildom_users = {
       "viewer": 0
     },
     {
-      "id": 10888441,
-      "name": "フォアグラ",
-      "official": false,
-      "status": 10,
-      "fans": 54,
-      "level": 80,
-      "viewer": 0
-    },
-    {
       "id": 11091335,
       "name": "フォスフォフィライト（ノノ）",
       "official": false,
       "status": 10,
       "fans": 54,
       "level": 89,
+      "viewer": 0
+    },
+    {
+      "id": 10888441,
+      "name": "フォアグラ",
+      "official": false,
+      "status": 10,
+      "fans": 54,
+      "level": 80,
       "viewer": 0
     },
     {
